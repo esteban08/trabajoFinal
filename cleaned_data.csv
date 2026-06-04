@@ -1,0 +1,1201 @@
+Edad,Genero,Comunidad_Autonoma,Situacion_Laboral,Historial_Familiar,Estres_Diario,Horas_Sueno,Actividad_Fisica,Apoyo_Social,Consumo_Redes,RISK_LEVEL
+56,Masculino,Murcia,Empleado,No,7,6.1,Baja,7,3.5,Medio
+69,Femenino,Andalucía,Empleado,No,4,6.8,Media,6,3.9,Bajo
+46,Femenino,Madrid,Empleado,Sí,6,8.9,Media,2,5.6,Alto
+32,Femenino,Andalucía,Empleado,Sí,7,7.9,Alta,3,4.6,Medio
+60,Masculino,Comunidad Valenciana,Jubilado,Sí,4,7.0,Baja,1,4.7,Alto
+25,Masculino,Baleares,Empleado,No,8,6.7,Alta,10,5.3,Bajo
+78,Masculino,Canarias,Jubilado,No,9,7.1,Baja,5,6.1,Alto
+38,Femenino,Cataluña,Desempleado,Sí,1,6.4,Baja,9,0.5,Bajo
+56,Masculino,Cantabria,Empleado,No,7,4.5,Baja,6,3.2,Medio
+75,Femenino,País Vasco,Empleado,No,9,9.5,Media,5,2.2,Medio
+36,Otro,Andalucía,Empleado,No,10,7.2,Baja,3,5.0,Alto
+40,Femenino,Cataluña,Empleado,Sí,5,7.5,Media,5,3.1,Medio
+28,Femenino,Cataluña,Desempleado,No,2,6.9,Alta,8,4.2,Bajo
+28,Masculino,Andalucía,Empleado,No,10,6.1,Media,2,5.7,Alto
+41,Femenino,Navarra,Empleado,Sí,6,6.8,Media,5,2.8,Medio
+70,Femenino,Madrid,Empleado,No,7,5.1,Alta,6,4.7,Medio
+53,Femenino,Baleares,Jubilado,Sí,2,9.7,Media,10,7.1,Bajo
+57,Masculino,Cataluña,Estudiante,No,2,5.5,Media,8,5.7,Bajo
+41,Masculino,Andalucía,Estudiante,No,10,5.8,Baja,8,0.8,Alto
+20,Masculino,Madrid,Empleado,No,10,6.5,Alta,5,3.4,Medio
+39,Femenino,Andalucía,Estudiante,No,1,8.5,Media,9,4.7,Bajo
+70,Femenino,Comunidad Valenciana,Estudiante,Sí,4,7.0,Baja,4,5.1,Medio
+19,Femenino,Asturias,Desempleado,No,7,5.5,Baja,9,3.5,Alto
+41,Masculino,Comunidad Valenciana,Jubilado,No,9,8.5,Alta,7,2.7,Medio
+61,Femenino,Galicia,Empleado,No,3,7.9,Baja,6,4.1,Bajo
+47,Masculino,Andalucía,Jubilado,No,7,7.6,Alta,4,1.8,Medio
+55,Masculino,Andalucía,Jubilado,No,7,7.9,Baja,2,6.2,Alto
+19,Masculino,Andalucía,Empleado,No,7,9.9,Media,8,7.7,Medio
+77,Femenino,Galicia,Empleado,Sí,2,9.6,Baja,6,4.8,Medio
+38,Masculino,Andalucía,Jubilado,No,6,6.2,Media,3,3.5,Alto
+50,Femenino,Madrid,Empleado,No,2,8.9,Alta,7,5.9,Bajo
+29,Femenino,Comunidad Valenciana,Empleado,No,6,7.5,Media,10,5.5,Bajo
+75,Masculino,Madrid,Jubilado,No,10,7.6,Media,7,3.4,Alto
+39,Femenino,Andalucía,Desempleado,Sí,3,5.0,Baja,6,3.9,Medio
+78,Masculino,Cataluña,Empleado,No,2,6.8,Baja,2,2.8,Bajo
+61,Masculino,Asturias,Desempleado,No,6,6.0,Baja,8,4.3,Medio
+42,Masculino,País Vasco,Empleado,No,2,8.0,Media,1,4.6,Medio
+66,Masculino,Comunidad Valenciana,Empleado,Sí,5,8.3,Baja,1,2.4,Alto
+44,Femenino,Andalucía,Empleado,No,2,4.5,Baja,6,1.9,Bajo
+76,Masculino,La Rioja,Desempleado,Sí,3,7.0,Media,5,1.3,Medio
+80,Femenino,País Vasco,Empleado,No,3,8.3,Media,9,4.8,Bajo
+59,Femenino,Cataluña,Estudiante,No,6,6.8,Media,7,4.0,Bajo
+45,Femenino,Baleares,Desempleado,Sí,6,7.9,Baja,2,3.8,Alto
+77,Femenino,Cataluña,Empleado,Sí,10,7.4,Baja,7,4.9,Alto
+33,Femenino,Comunidad Valenciana,Desempleado,Sí,3,7.4,Alta,3,2.2,Medio
+32,Masculino,Galicia,Empleado,No,3,6.7,Baja,1,1.9,Medio
+79,Masculino,Cataluña,Desempleado,Sí,1,5.5,Alta,8,4.5,Bajo
+79,Femenino,Cantabria,Empleado,Sí,7,5.7,Alta,3,0.5,Alto
+64,Femenino,Castilla y León,Jubilado,No,8,7.9,Media,8,3.5,Medio
+79,Masculino,Comunidad Valenciana,Empleado,No,2,7.0,Baja,7,8.9,Medio
+68,Femenino,Cataluña,Empleado,No,4,6.8,Alta,2,1.3,Bajo
+61,Masculino,Andalucía,Desempleado,No,10,6.5,Media,1,3.1,Alto
+72,Femenino,Cataluña,Empleado,Sí,7,6.6,Media,7,0.5,Medio
+69,Masculino,Canarias,Empleado,No,8,8.3,Baja,1,3.5,Alto
+74,Masculino,Cataluña,Desempleado,No,1,6.6,Baja,6,7.9,Medio
+20,Masculino,Comunidad Valenciana,Desempleado,No,4,5.4,Baja,10,4.9,Medio
+54,Femenino,Castilla y León,Estudiante,No,6,7.9,Media,10,2.8,Bajo
+68,Femenino,Andalucía,Empleado,No,3,6.8,Media,8,8.4,Medio
+24,Masculino,País Vasco,Desempleado,No,5,7.0,Baja,7,0.5,Bajo
+38,Femenino,Andalucía,Empleado,No,10,8.9,Media,4,4.9,Alto
+26,Masculino,Cantabria,Desempleado,Sí,9,7.0,Baja,1,4.1,Alto
+56,Femenino,Comunidad Valenciana,Desempleado,Sí,3,7.3,Media,1,3.5,Medio
+35,Masculino,Andalucía,Empleado,Sí,5,5.6,Alta,4,5.6,Medio
+21,Masculino,Madrid,Empleado,Sí,8,6.7,Baja,5,1.6,Alto
+42,Femenino,Madrid,Empleado,No,6,7.7,Baja,7,4.6,Medio
+77,Otro,Canarias,Empleado,Sí,4,5.1,Baja,4,4.4,Medio
+31,Femenino,Castilla y León,Empleado,No,8,7.2,Media,10,2.3,Medio
+67,Femenino,Galicia,Empleado,Sí,3,7.1,Media,1,7.9,Alto
+75,Femenino,Andalucía,Desempleado,Sí,3,7.0,Alta,10,3.6,Bajo
+26,Masculino,Andalucía,Empleado,No,4,8.2,Baja,7,3.7,Bajo
+43,Otro,Andalucía,Jubilado,Sí,9,7.4,Alta,2,1.9,Alto
+70,Femenino,Comunidad Valenciana,Empleado,No,5,8.8,Baja,2,3.7,Medio
+19,Femenino,Baleares,Estudiante,No,8,5.8,Media,8,8.7,Alto
+37,Femenino,Madrid,Desempleado,Sí,6,7.2,Baja,10,3.5,Medio
+45,Femenino,Andalucía,Empleado,Sí,3,7.1,Alta,10,5.0,Bajo
+64,Femenino,Comunidad Valenciana,Empleado,No,8,5.7,Media,10,5.9,Medio
+77,Masculino,Murcia,Desempleado,Sí,9,8.1,Media,5,3.6,Alto
+24,Femenino,Castilla y León,Empleado,Sí,8,9.8,Alta,10,3.2,Bajo
+61,Masculino,Baleares,Jubilado,Sí,4,7.0,Baja,2,4.9,Alto
+78,Femenino,Cataluña,Empleado,Sí,6,7.6,Baja,5,3.5,Alto
+25,Femenino,Cataluña,Jubilado,No,1,7.1,Alta,8,3.3,Bajo
+64,Masculino,Baleares,Empleado,No,4,6.1,Baja,6,5.9,Bajo
+52,Femenino,País Vasco,Estudiante,No,8,4.8,Baja,3,3.9,Alto
+31,Femenino,Cataluña,Desempleado,Sí,1,6.2,Media,8,6.4,Medio
+34,Femenino,Castilla y León,Estudiante,Sí,3,5.3,Media,9,3.8,Bajo
+53,Femenino,Murcia,Empleado,No,1,9.0,Baja,5,1.4,Bajo
+67,Masculino,Galicia,Desempleado,No,9,6.9,Baja,2,0.5,Alto
+57,Femenino,País Vasco,Empleado,No,2,6.6,Baja,2,0.5,Bajo
+21,Femenino,Madrid,Estudiante,No,9,8.1,Media,7,0.7,Medio
+19,Masculino,Comunidad Valenciana,Empleado,No,4,5.7,Alta,1,4.5,Medio
+79,Femenino,Comunidad Valenciana,Jubilado,No,2,6.1,Alta,10,2.1,Bajo
+23,Masculino,Aragón,Empleado,Sí,4,7.1,Media,2,0.5,Medio
+71,Masculino,Murcia,Estudiante,No,10,8.2,Baja,10,3.7,Medio
+59,Femenino,Murcia,Jubilado,No,6,7.6,Alta,4,1.8,Bajo
+21,Femenino,Andalucía,Estudiante,Sí,7,7.3,Media,1,4.9,Alto
+71,Masculino,Castilla y León,Empleado,Sí,3,7.1,Baja,4,4.9,Medio
+46,Femenino,Canarias,Empleado,No,3,7.5,Alta,10,5.1,Bajo
+80,Masculino,País Vasco,Jubilado,No,10,7.2,Media,5,0.5,Alto
+35,Masculino,Canarias,Empleado,No,8,5.8,Media,9,4.1,Medio
+43,Masculino,Aragón,Empleado,Sí,5,7.1,Media,1,3.8,Alto
+61,Masculino,Madrid,Desempleado,Sí,4,5.7,Baja,5,1.6,Medio
+51,Masculino,Comunidad Valenciana,Estudiante,No,7,7.1,Baja,2,0.5,Alto
+27,Femenino,Andalucía,Empleado,Sí,7,6.4,Media,9,3.8,Medio
+79,Femenino,Madrid,Desempleado,No,9,10.0,Baja,6,6.1,Alto
+53,Masculino,Galicia,Estudiante,Sí,9,7.0,Media,2,0.5,Alto
+31,Femenino,Canarias,Empleado,No,5,5.3,Media,3,2.3,Medio
+48,Femenino,Cataluña,Jubilado,No,8,6.8,Media,8,4.3,Medio
+65,Masculino,Andalucía,Empleado,No,10,7.6,Media,1,6.2,Alto
+32,Femenino,País Vasco,Empleado,No,1,9.0,Media,3,3.4,Bajo
+25,Otro,Andalucía,Empleado,No,9,6.3,Alta,10,7.9,Medio
+31,Masculino,Andalucía,Empleado,No,8,5.1,Media,1,0.5,Alto
+40,Masculino,Andalucía,Jubilado,Sí,6,8.0,Baja,8,0.5,Medio
+77,Femenino,Andalucía,Empleado,No,3,5.3,Baja,1,6.0,Alto
+74,Femenino,Cataluña,Empleado,Sí,3,6.5,Baja,5,0.5,Medio
+79,Masculino,Madrid,Empleado,No,8,6.7,Baja,4,4.9,Alto
+57,Femenino,Madrid,Desempleado,No,5,6.9,Baja,7,3.4,Medio
+38,Femenino,Baleares,Desempleado,Sí,10,7.8,Baja,5,2.2,Alto
+33,Femenino,Comunidad Valenciana,Empleado,No,7,6.2,Media,8,3.1,Medio
+62,Femenino,Castilla y León,Empleado,Sí,5,6.7,Alta,1,1.4,Medio
+35,Femenino,Andalucía,Jubilado,Sí,8,7.0,Baja,5,3.4,Alto
+64,Masculino,Cataluña,Empleado,No,10,7.2,Media,4,4.0,Alto
+70,Masculino,Castilla y León,Empleado,No,10,7.1,Media,3,3.2,Alto
+41,Femenino,Andalucía,Empleado,No,4,7.5,Baja,5,2.8,Bajo
+43,Femenino,Comunidad Valenciana,Estudiante,Sí,2,8.0,Alta,10,4.5,Bajo
+42,Masculino,Galicia,Empleado,Sí,3,7.5,Media,3,7.3,Medio
+77,Femenino,Galicia,Empleado,Sí,8,7.5,Baja,8,3.5,Alto
+77,Femenino,Andalucía,Empleado,Sí,7,5.1,Media,3,5.6,Alto
+77,Masculino,Cataluña,Jubilado,No,2,7.1,Baja,1,2.1,Medio
+62,Femenino,Galicia,Empleado,No,6,7.6,Media,9,1.3,Bajo
+58,Femenino,Andalucía,Estudiante,No,9,7.9,Baja,9,4.9,Medio
+46,Femenino,País Vasco,Empleado,No,4,6.2,Alta,6,3.5,Bajo
+32,Femenino,Castilla y León,Empleado,Sí,9,6.2,Media,10,6.3,Medio
+62,Masculino,La Rioja,Estudiante,No,2,6.3,Media,1,6.7,Medio
+18,Femenino,Cataluña,Empleado,Sí,2,7.6,Baja,8,5.7,Bajo
+42,Masculino,Murcia,Jubilado,Sí,9,8.2,Media,2,5.6,Alto
+24,Masculino,Comunidad Valenciana,Jubilado,No,7,6.5,Media,9,0.5,Bajo
+26,Femenino,Madrid,Jubilado,Sí,7,8.1,Media,8,4.9,Medio
+41,Masculino,Andalucía,Empleado,Sí,1,7.1,Media,3,5.7,Medio
+18,Masculino,Castilla y León,Estudiante,No,6,6.9,Media,5,1.5,Bajo
+61,Femenino,Cataluña,Empleado,No,7,6.7,Alta,9,4.0,Bajo
+25,Masculino,Madrid,Jubilado,No,6,7.9,Media,1,1.9,Medio
+41,Masculino,Andalucía,Desempleado,Sí,6,7.4,Alta,9,6.1,Medio
+80,Femenino,Murcia,Estudiante,Sí,2,9.7,Alta,4,2.1,Bajo
+28,Femenino,Canarias,Empleado,No,6,6.0,Media,4,2.4,Medio
+68,Masculino,Castilla y León,Empleado,Sí,4,7.6,Baja,4,3.1,Medio
+34,Femenino,Cataluña,Empleado,No,9,6.4,Media,10,8.5,Alto
+25,Femenino,Andalucía,Estudiante,Sí,1,6.0,Alta,9,6.0,Bajo
+52,Femenino,Galicia,Empleado,No,8,7.0,Baja,6,7.2,Alto
+52,Femenino,Comunidad Valenciana,Empleado,Sí,5,7.2,Media,8,0.5,Bajo
+50,Otro,Andalucía,Estudiante,No,1,10.0,Alta,4,1.5,Bajo
+76,Femenino,País Vasco,Desempleado,No,4,6.8,Baja,3,6.7,Alto
+22,Femenino,La Rioja,Empleado,No,1,5.6,Media,1,0.5,Bajo
+59,Femenino,Castilla y León,Desempleado,Sí,6,7.3,Baja,10,2.7,Medio
+56,Masculino,Castilla y León,Empleado,No,2,4.5,Baja,7,8.1,Bajo
+75,Masculino,Navarra,Empleado,No,5,6.9,Media,4,2.1,Medio
+58,Femenino,Cataluña,Empleado,No,7,7.0,Baja,8,0.5,Medio
+45,Femenino,Comunidad Valenciana,Empleado,No,2,8.0,Baja,3,4.1,Bajo
+24,Femenino,Cantabria,Empleado,Sí,6,8.2,Alta,1,0.5,Medio
+26,Masculino,Andalucía,Estudiante,Sí,6,6.4,Baja,5,6.5,Alto
+25,Femenino,Castilla y León,Empleado,No,5,6.8,Alta,2,2.2,Medio
+29,Masculino,Comunidad Valenciana,Empleado,Sí,5,6.1,Alta,3,1.8,Medio
+51,Masculino,Comunidad Valenciana,Jubilado,No,3,5.6,Baja,6,4.1,Medio
+50,Femenino,País Vasco,Empleado,No,10,7.4,Baja,3,3.2,Alto
+65,Femenino,Asturias,Empleado,No,10,5.5,Media,3,4.5,Alto
+72,Femenino,Canarias,Estudiante,No,2,6.5,Media,6,5.0,Bajo
+40,Femenino,Andalucía,Jubilado,No,7,5.8,Baja,5,3.6,Alto
+79,Masculino,Aragón,Estudiante,Sí,1,7.7,Media,10,1.7,Bajo
+41,Femenino,Cataluña,Estudiante,Sí,6,9.2,Baja,9,5.5,Medio
+54,Masculino,Madrid,Estudiante,No,6,5.4,Alta,1,2.6,Medio
+52,Femenino,Madrid,Empleado,Sí,3,4.8,Baja,3,2.3,Medio
+61,Femenino,Comunidad Valenciana,Estudiante,Sí,2,6.9,Baja,3,4.3,Medio
+57,Femenino,Madrid,Empleado,No,2,7.0,Baja,6,0.5,Bajo
+39,Femenino,Asturias,Jubilado,No,9,7.3,Alta,8,4.8,Medio
+44,Femenino,Castilla y León,Empleado,No,5,6.5,Media,3,4.4,Medio
+52,Femenino,Galicia,Desempleado,Sí,7,6.8,Alta,3,6.2,Alto
+18,Masculino,Andalucía,Empleado,Sí,5,7.4,Baja,6,3.0,Medio
+52,Masculino,Extremadura,Estudiante,Sí,7,8.2,Baja,8,6.6,Alto
+54,Masculino,Extremadura,Empleado,No,4,4.7,Baja,6,5.1,Medio
+64,Masculino,Canarias,Jubilado,No,8,6.6,Media,10,3.9,Bajo
+31,Femenino,Andalucía,Estudiante,No,10,7.3,Media,3,7.6,Alto
+20,Femenino,Andalucía,Empleado,No,10,5.9,Media,4,4.2,Alto
+18,Masculino,Cataluña,Estudiante,No,7,9.1,Baja,1,3.0,Alto
+22,Masculino,Andalucía,Estudiante,No,10,6.2,Alta,8,4.2,Medio
+43,Masculino,Madrid,Desempleado,Sí,5,7.0,Baja,4,2.9,Alto
+72,Femenino,Asturias,Empleado,No,6,7.7,Alta,6,4.7,Medio
+80,Femenino,Madrid,Empleado,No,5,6.3,Baja,3,6.6,Alto
+31,Masculino,Andalucía,Empleado,No,7,4.8,Media,6,4.0,Medio
+56,Femenino,Cataluña,Empleado,No,2,6.5,Baja,9,4.2,Bajo
+44,Femenino,Andalucía,Jubilado,No,5,8.2,Media,9,5.6,Bajo
+26,Masculino,Andalucía,Empleado,No,10,6.6,Media,10,6.4,Medio
+32,Femenino,Cataluña,Estudiante,No,3,6.0,Media,3,3.1,Medio
+32,Femenino,Cataluña,Empleado,No,9,8.1,Media,3,4.3,Alto
+43,Masculino,Canarias,Empleado,Sí,6,6.6,Media,4,5.6,Alto
+59,Masculino,Cantabria,Estudiante,Sí,10,6.4,Media,7,4.7,Alto
+77,Masculino,Madrid,Jubilado,No,3,7.2,Alta,3,0.5,Bajo
+30,Masculino,Madrid,Empleado,No,7,7.9,Baja,10,6.0,Bajo
+68,Femenino,Aragón,Empleado,Sí,4,9.9,Media,8,5.0,Bajo
+80,Femenino,Cataluña,Empleado,No,3,8.0,Media,8,5.2,Bajo
+49,Masculino,Andalucía,Empleado,Sí,8,8.4,Baja,6,1.6,Alto
+56,Masculino,Aragón,Empleado,Sí,4,6.4,Media,4,4.3,Medio
+66,Masculino,Andalucía,Empleado,No,1,5.8,Baja,5,5.7,Bajo
+69,Masculino,Galicia,Empleado,Sí,6,7.1,Baja,2,2.2,Alto
+78,Femenino,Comunidad Valenciana,Estudiante,Sí,10,7.1,Baja,6,2.8,Alto
+49,Masculino,Madrid,Empleado,Sí,1,5.7,Baja,3,5.7,Medio
+21,Masculino,Cataluña,Empleado,No,5,6.8,Media,6,2.7,Bajo
+47,Masculino,Canarias,Empleado,No,7,7.5,Media,5,3.6,Medio
+54,Femenino,Andalucía,Estudiante,No,6,7.4,Alta,2,1.9,Medio
+40,Masculino,Cataluña,Jubilado,No,2,7.6,Media,5,7.6,Bajo
+56,Femenino,Castilla y León,Empleado,Sí,4,7.3,Baja,5,5.0,Medio
+62,Masculino,Comunidad Valenciana,Estudiante,No,2,6.4,Alta,9,3.5,Bajo
+32,Femenino,Andalucía,Empleado,Sí,1,6.4,Alta,8,3.1,Bajo
+60,Femenino,Baleares,Empleado,No,3,5.6,Media,7,1.5,Bajo
+46,Masculino,Madrid,Empleado,No,3,9.1,Media,3,3.8,Bajo
+53,Masculino,Murcia,Empleado,No,7,7.0,Alta,10,5.3,Bajo
+30,Femenino,Canarias,Estudiante,Sí,1,6.7,Media,4,2.4,Bajo
+49,Femenino,Galicia,Jubilado,No,9,5.9,Alta,6,4.2,Alto
+24,Masculino,Comunidad Valenciana,Empleado,Sí,6,10.0,Baja,3,3.3,Alto
+76,Femenino,Cantabria,Desempleado,Sí,4,5.7,Baja,9,6.8,Medio
+68,Femenino,Andalucía,Desempleado,No,3,6.5,Media,8,2.7,Bajo
+39,Femenino,Castilla y León,Empleado,Sí,3,7.5,Media,6,5.6,Medio
+45,Masculino,Cataluña,Empleado,No,2,7.7,Alta,4,6.8,Bajo
+19,Femenino,Cataluña,Empleado,Sí,2,8.1,Alta,7,3.2,Bajo
+59,Masculino,Cataluña,Empleado,Sí,10,9.2,Baja,3,2.8,Alto
+62,Femenino,Navarra,Empleado,No,5,7.6,Baja,10,5.8,Medio
+79,Masculino,Cantabria,Empleado,No,9,5.7,Alta,8,0.5,Medio
+74,Masculino,Cataluña,Empleado,No,2,6.7,Media,1,4.9,Bajo
+70,Masculino,Andalucía,Estudiante,No,2,7.4,Baja,3,0.8,Bajo
+23,Femenino,Castilla y León,Desempleado,No,6,9.5,Media,5,6.4,Medio
+45,Masculino,Madrid,Jubilado,Sí,10,5.3,Media,5,3.5,Alto
+45,Masculino,Andalucía,Empleado,No,2,8.4,Media,10,3.8,Bajo
+61,Masculino,País Vasco,Estudiante,No,4,7.2,Media,2,2.6,Medio
+61,Femenino,Comunidad Valenciana,Jubilado,No,6,8.0,Baja,10,0.8,Bajo
+37,Otro,La Rioja,Desempleado,No,5,6.9,Alta,8,6.5,Medio
+47,Masculino,Cataluña,Empleado,No,1,6.0,Media,5,3.7,Bajo
+79,Femenino,Madrid,Estudiante,No,6,7.9,Media,7,10.4,Medio
+28,Femenino,Comunidad Valenciana,Empleado,No,1,7.8,Baja,7,2.4,Bajo
+75,Femenino,Canarias,Empleado,Sí,3,8.2,Media,5,2.7,Bajo
+72,Masculino,Comunidad Valenciana,Empleado,Sí,10,7.0,Baja,8,2.2,Alto
+45,Masculino,Galicia,Desempleado,No,5,6.3,Baja,9,3.6,Medio
+42,Masculino,Cataluña,Empleado,Sí,10,5.1,Media,4,7.2,Alto
+56,Masculino,Aragón,Jubilado,No,5,8.0,Baja,4,6.0,Medio
+79,Masculino,Madrid,Desempleado,No,10,7.5,Media,8,1.0,Medio
+50,Femenino,Andalucía,Empleado,No,6,5.8,Baja,1,6.4,Alto
+18,Masculino,País Vasco,Jubilado,Sí,10,6.4,Media,4,5.4,Alto
+74,Masculino,Cataluña,Empleado,Sí,8,6.4,Baja,6,5.0,Alto
+44,Femenino,Andalucía,Jubilado,No,5,5.2,Baja,4,2.6,Medio
+79,Masculino,Aragón,Empleado,No,1,6.0,Baja,6,2.8,Bajo
+74,Femenino,Madrid,Empleado,No,5,5.6,Alta,5,4.3,Bajo
+69,Femenino,Castilla y León,Estudiante,No,3,6.5,Alta,9,2.9,Bajo
+30,Masculino,Cataluña,Desempleado,No,4,6.1,Baja,10,6.6,Medio
+58,Femenino,Canarias,Estudiante,No,8,5.0,Media,9,2.8,Medio
+20,Femenino,Andalucía,Jubilado,No,7,9.4,Media,4,0.5,Medio
+56,Femenino,Madrid,Estudiante,Sí,5,8.5,Alta,4,1.4,Medio
+23,Femenino,Cantabria,Desempleado,No,2,6.1,Baja,8,1.5,Bajo
+25,Femenino,Canarias,Jubilado,No,6,7.3,Media,10,3.5,Bajo
+44,Femenino,Comunidad Valenciana,Desempleado,No,6,7.5,Baja,4,4.4,Alto
+26,Masculino,Cataluña,Empleado,Sí,10,8.4,Baja,2,4.1,Alto
+79,Masculino,Baleares,Jubilado,No,10,6.0,Alta,2,4.9,Alto
+54,Masculino,Comunidad Valenciana,Empleado,No,6,8.3,Media,1,3.5,Alto
+50,Femenino,Canarias,Estudiante,No,9,6.3,Baja,5,3.6,Alto
+68,Masculino,Canarias,Jubilado,Sí,8,5.4,Baja,6,7.5,Alto
+59,Femenino,Andalucía,Estudiante,No,8,7.9,Media,9,6.4,Bajo
+61,Femenino,Andalucía,Desempleado,No,1,8.5,Media,5,4.8,Bajo
+41,Femenino,País Vasco,Estudiante,Sí,5,10.0,Baja,6,5.8,Medio
+32,Otro,Andalucía,Empleado,No,7,5.6,Alta,6,0.5,Medio
+76,Femenino,Cataluña,Jubilado,No,6,7.8,Baja,3,2.4,Medio
+71,Femenino,Navarra,Empleado,No,5,6.5,Baja,4,3.1,Medio
+49,Masculino,Comunidad Valenciana,Empleado,No,8,7.9,Alta,1,2.4,Alto
+49,Femenino,Canarias,Empleado,Sí,3,5.2,Baja,4,0.9,Medio
+41,Masculino,Comunidad Valenciana,Empleado,Sí,6,5.5,Baja,1,4.8,Alto
+58,Masculino,Comunidad Valenciana,Empleado,No,5,6.1,Media,5,6.8,Medio
+69,Femenino,Andalucía,Estudiante,Sí,8,7.1,Alta,8,4.0,Medio
+66,Femenino,Madrid,Empleado,Sí,4,6.2,Baja,8,5.3,Medio
+79,Masculino,Cataluña,Empleado,Sí,8,7.8,Alta,5,3.9,Alto
+66,Femenino,Madrid,Empleado,Sí,10,8.2,Media,10,3.1,Medio
+75,Femenino,Canarias,Empleado,No,2,7.7,Baja,2,5.8,Bajo
+69,Femenino,Madrid,Desempleado,Sí,9,8.9,Media,6,1.1,Alto
+29,Femenino,Madrid,Empleado,No,9,7.5,Baja,1,0.5,Alto
+79,Femenino,Madrid,Empleado,Sí,10,5.5,Media,7,1.1,Alto
+56,Otro,Andalucía,Empleado,No,10,8.6,Media,4,5.7,Alto
+19,Femenino,Madrid,Empleado,Sí,6,6.3,Alta,5,4.2,Medio
+20,Femenino,Cataluña,Empleado,No,4,8.1,Baja,6,4.8,Bajo
+66,Femenino,Cataluña,Empleado,No,4,8.9,Media,1,7.4,Medio
+54,Femenino,Andalucía,Estudiante,Sí,6,7.5,Media,9,1.7,Bajo
+66,Masculino,Madrid,Estudiante,No,5,5.2,Baja,10,6.4,Bajo
+73,Masculino,Canarias,Empleado,Sí,6,5.9,Baja,4,3.2,Alto
+34,Masculino,Cataluña,Jubilado,No,7,8.6,Baja,8,2.9,Bajo
+76,Masculino,Cataluña,Empleado,Sí,7,6.8,Media,5,4.2,Alto
+66,Femenino,Galicia,Empleado,No,9,7.1,Media,8,4.5,Medio
+19,Femenino,Cataluña,Jubilado,Sí,8,7.9,Baja,1,3.6,Alto
+19,Femenino,Baleares,Empleado,No,6,7.8,Alta,8,5.2,Bajo
+45,Masculino,Comunidad Valenciana,Jubilado,Sí,6,7.3,Alta,4,4.2,Alto
+71,Femenino,Madrid,Empleado,Sí,5,6.7,Media,2,3.6,Alto
+40,Femenino,Comunidad Valenciana,Empleado,No,1,6.6,Baja,6,3.2,Bajo
+54,Femenino,Andalucía,Empleado,No,9,8.0,Media,2,4.5,Alto
+49,Femenino,Galicia,Estudiante,Sí,9,7.7,Baja,5,1.3,Alto
+50,Femenino,Madrid,Desempleado,Sí,9,6.7,Baja,2,1.9,Alto
+18,Masculino,Baleares,Estudiante,Sí,8,8.3,Media,3,3.3,Alto
+36,Femenino,Andalucía,Empleado,Sí,10,6.8,Baja,6,5.1,Alto
+79,Masculino,Comunidad Valenciana,Empleado,Sí,3,6.0,Baja,1,8.3,Alto
+19,Masculino,Galicia,Empleado,No,1,6.1,Baja,6,3.7,Bajo
+70,Femenino,Andalucía,Empleado,Sí,8,5.8,Baja,3,0.5,Alto
+61,Masculino,Madrid,Jubilado,Sí,7,6.7,Baja,7,2.4,Alto
+43,Femenino,Castilla y León,Empleado,No,5,8.5,Alta,2,5.3,Medio
+49,Masculino,Murcia,Estudiante,No,10,6.0,Baja,6,2.1,Alto
+23,Femenino,Cataluña,Estudiante,Sí,7,7.2,Baja,8,1.4,Medio
+49,Masculino,Canarias,Empleado,Sí,10,6.2,Baja,1,5.3,Alto
+72,Otro,Cantabria,Desempleado,No,4,6.7,Alta,9,4.9,Bajo
+21,Femenino,Aragón,Empleado,Sí,9,5.2,Media,5,1.1,Alto
+72,Masculino,Andalucía,Empleado,No,10,6.7,Baja,5,2.2,Alto
+28,Femenino,Castilla y León,Empleado,Sí,2,6.8,Alta,5,6.5,Bajo
+73,Otro,Cataluña,Desempleado,No,9,7.6,Baja,6,5.7,Alto
+76,Masculino,La Rioja,Empleado,Sí,9,7.3,Baja,2,1.6,Alto
+34,Masculino,Comunidad Valenciana,Empleado,No,5,5.6,Baja,6,0.5,Medio
+80,Femenino,Andalucía,Empleado,No,1,8.3,Baja,4,4.5,Bajo
+55,Femenino,Castilla y León,Empleado,No,7,7.3,Baja,8,3.4,Medio
+41,Femenino,Cataluña,Desempleado,Sí,10,7.2,Media,9,4.4,Alto
+22,Femenino,La Rioja,Estudiante,Sí,10,7.0,Baja,9,5.3,Alto
+69,Masculino,Cantabria,Empleado,Sí,4,6.4,Media,8,2.1,Bajo
+51,Masculino,País Vasco,Empleado,Sí,9,7.3,Baja,3,3.1,Alto
+23,Femenino,Andalucía,Estudiante,Sí,6,7.6,Baja,10,2.2,Medio
+39,Masculino,País Vasco,Empleado,No,3,4.9,Media,4,2.3,Bajo
+28,Masculino,Andalucía,Desempleado,No,6,6.4,Alta,1,5.1,Medio
+80,Femenino,Andalucía,Empleado,No,10,6.7,Baja,9,4.3,Alto
+65,Femenino,Murcia,Empleado,No,6,7.3,Media,5,0.9,Medio
+33,Femenino,Cataluña,Empleado,No,5,8.4,Baja,6,5.5,Medio
+50,Femenino,Madrid,Empleado,Sí,2,6.1,Baja,3,3.3,Medio
+26,Femenino,Cantabria,Desempleado,No,10,6.4,Baja,10,5.5,Alto
+77,Femenino,Cataluña,Empleado,Sí,10,6.4,Baja,8,2.0,Alto
+76,Femenino,Cataluña,Estudiante,No,2,6.0,Baja,7,2.1,Bajo
+23,Masculino,Extremadura,Jubilado,No,7,6.6,Baja,1,4.5,Alto
+33,Masculino,Andalucía,Empleado,No,2,7.9,Media,10,1.8,Bajo
+46,Femenino,Canarias,Estudiante,No,6,5.7,Baja,5,3.5,Medio
+20,Femenino,La Rioja,Empleado,Sí,5,7.5,Media,10,1.6,Bajo
+37,Masculino,Extremadura,Empleado,No,4,5.0,Baja,9,3.2,Bajo
+77,Masculino,País Vasco,Estudiante,No,7,6.3,Media,6,3.9,Medio
+76,Masculino,Cataluña,Empleado,No,8,6.6,Media,8,4.0,Medio
+53,Masculino,Cataluña,Desempleado,No,4,9.0,Baja,10,3.3,Bajo
+36,Femenino,Murcia,Empleado,Sí,1,6.7,Baja,1,4.7,Medio
+43,Masculino,Baleares,Desempleado,Sí,1,4.4,Media,10,4.3,Bajo
+20,Femenino,Comunidad Valenciana,Jubilado,Sí,1,4.6,Alta,7,3.8,Bajo
+80,Femenino,Cataluña,Jubilado,Sí,1,7.0,Baja,3,2.7,Medio
+36,Femenino,Andalucía,Estudiante,No,5,7.7,Baja,9,6.1,Bajo
+37,Femenino,Andalucía,Estudiante,No,4,7.5,Alta,6,4.8,Bajo
+49,Masculino,Castilla y León,Desempleado,No,9,7.2,Baja,5,1.9,Alto
+24,Femenino,Madrid,Desempleado,No,3,8.4,Media,8,5.3,Bajo
+69,Masculino,Extremadura,Empleado,No,7,6.4,Baja,8,5.8,Medio
+58,Masculino,Castilla y León,Empleado,No,8,8.1,Baja,3,3.8,Alto
+50,Femenino,Cataluña,Empleado,Sí,6,5.0,Media,2,4.0,Alto
+57,Masculino,Galicia,Jubilado,No,10,5.9,Media,2,0.5,Alto
+56,Masculino,Madrid,Empleado,Sí,1,4.8,Baja,5,2.3,Medio
+35,Femenino,Comunidad Valenciana,Empleado,Sí,8,6.7,Media,10,5.7,Alto
+57,Masculino,Castilla y León,Empleado,No,10,6.9,Media,7,2.4,Medio
+18,Femenino,Murcia,Desempleado,Sí,3,7.1,Media,8,3.7,Bajo
+28,Masculino,Aragón,Estudiante,Sí,8,7.1,Baja,10,2.3,Medio
+45,Femenino,Cataluña,Empleado,Sí,4,5.9,Media,8,4.5,Bajo
+74,Femenino,Andalucía,Empleado,Sí,8,6.8,Media,8,4.8,Medio
+42,Femenino,Castilla y León,Estudiante,No,1,5.2,Media,10,4.8,Bajo
+67,Femenino,Andalucía,Empleado,Sí,3,8.6,Media,3,1.7,Medio
+40,Masculino,Cataluña,Empleado,Sí,6,6.6,Baja,2,4.2,Alto
+48,Femenino,Andalucía,Desempleado,No,9,6.4,Media,4,7.2,Alto
+47,Masculino,País Vasco,Estudiante,No,2,8.9,Media,1,5.5,Medio
+59,Femenino,Andalucía,Empleado,No,1,5.5,Baja,3,4.2,Medio
+52,Masculino,País Vasco,Estudiante,Sí,10,5.6,Media,9,0.5,Alto
+24,Femenino,La Rioja,Estudiante,No,3,5.7,Baja,7,3.5,Bajo
+77,Masculino,Andalucía,Empleado,No,4,6.9,Media,7,7.3,Medio
+33,Femenino,Andalucía,Jubilado,No,5,7.5,Baja,1,6.6,Alto
+43,Femenino,Madrid,Estudiante,No,3,7.9,Media,7,4.9,Bajo
+65,Femenino,Aragón,Estudiante,No,10,10.0,Alta,10,2.6,Bajo
+74,Masculino,Cataluña,Estudiante,Sí,2,4.3,Media,7,4.1,Bajo
+69,Femenino,Madrid,Empleado,No,2,7.7,Alta,4,5.5,Bajo
+77,Masculino,Andalucía,Empleado,No,7,6.3,Alta,7,5.9,Medio
+66,Masculino,Canarias,Empleado,No,9,6.3,Baja,8,4.6,Alto
+19,Masculino,Madrid,Empleado,Sí,10,6.3,Media,3,5.7,Alto
+18,Masculino,Canarias,Empleado,Sí,2,5.9,Media,10,3.9,Bajo
+65,Femenino,Extremadura,Jubilado,Sí,7,9.0,Alta,2,3.8,Alto
+79,Femenino,Cataluña,Estudiante,Sí,7,8.0,Baja,7,3.1,Medio
+29,Masculino,Murcia,Desempleado,Sí,7,7.0,Alta,5,4.8,Alto
+22,Masculino,Andalucía,Jubilado,No,3,8.6,Media,5,6.0,Bajo
+54,Masculino,Baleares,Estudiante,No,7,5.2,Media,5,5.4,Alto
+49,Masculino,País Vasco,Empleado,No,1,5.4,Baja,7,1.6,Bajo
+76,Femenino,Baleares,Empleado,No,10,4.4,Baja,9,1.7,Alto
+72,Masculino,Andalucía,Empleado,No,1,6.2,Media,8,6.2,Bajo
+26,Masculino,Andalucía,Estudiante,Sí,5,7.2,Baja,6,4.4,Medio
+58,Masculino,Madrid,Empleado,Sí,2,7.1,Alta,7,4.4,Bajo
+52,Femenino,Madrid,Desempleado,Sí,9,7.2,Baja,9,4.4,Alto
+36,Femenino,Cataluña,Empleado,No,7,5.3,Media,6,7.5,Alto
+65,Femenino,Madrid,Estudiante,No,4,8.0,Baja,1,3.1,Medio
+33,Femenino,Andalucía,Estudiante,Sí,4,7.3,Media,4,6.2,Medio
+20,Femenino,Madrid,Estudiante,No,2,7.9,Media,8,4.5,Bajo
+37,Masculino,Murcia,Jubilado,No,5,4.7,Baja,7,0.8,Bajo
+41,Femenino,Madrid,Estudiante,No,4,7.4,Baja,3,2.4,Medio
+71,Femenino,Andalucía,Jubilado,No,1,5.6,Baja,10,2.8,Bajo
+73,Femenino,Madrid,Jubilado,No,8,6.5,Media,3,6.2,Alto
+50,Femenino,Andalucía,Estudiante,Sí,3,7.6,Media,3,6.5,Medio
+41,Femenino,Cantabria,Desempleado,No,6,7.1,Media,1,4.7,Alto
+69,Femenino,Andalucía,Empleado,Sí,4,6.0,Media,10,3.0,Bajo
+28,Otro,Castilla y León,Empleado,No,9,7.0,Media,1,2.2,Alto
+66,Femenino,Cantabria,Desempleado,No,7,5.2,Baja,6,6.3,Alto
+25,Femenino,Murcia,Empleado,Sí,9,8.4,Baja,1,1.4,Alto
+53,Femenino,País Vasco,Empleado,No,10,6.8,Baja,5,3.8,Alto
+55,Masculino,Murcia,Jubilado,No,3,8.3,Alta,4,8.7,Bajo
+57,Femenino,La Rioja,Jubilado,Sí,1,6.4,Alta,5,3.0,Bajo
+37,Masculino,Galicia,Estudiante,No,5,6.4,Baja,7,1.5,Bajo
+79,Femenino,Comunidad Valenciana,Empleado,Sí,3,6.1,Media,6,0.5,Bajo
+52,Otro,Galicia,Empleado,No,6,8.1,Alta,9,8.8,Bajo
+65,Femenino,Comunidad Valenciana,Empleado,No,8,6.1,Media,6,4.7,Medio
+79,Masculino,Galicia,Empleado,No,4,7.8,Baja,9,2.3,Bajo
+42,Masculino,Madrid,Empleado,No,5,6.5,Baja,4,3.6,Medio
+52,Masculino,Cataluña,Empleado,No,5,4.6,Media,1,2.7,Alto
+42,Femenino,Andalucía,Jubilado,No,4,6.3,Alta,1,0.5,Bajo
+46,Masculino,Andalucía,Estudiante,Sí,4,5.6,Media,10,5.6,Medio
+35,Masculino,Cataluña,Empleado,No,4,7.0,Baja,7,4.1,Bajo
+63,Masculino,Andalucía,Empleado,Sí,4,5.6,Baja,3,5.4,Alto
+35,Femenino,Comunidad Valenciana,Empleado,No,4,8.1,Media,2,4.0,Medio
+19,Femenino,Cataluña,Empleado,Sí,5,6.9,Alta,6,4.3,Medio
+71,Masculino,Murcia,Jubilado,Sí,2,6.8,Media,6,0.5,Bajo
+52,Masculino,Andalucía,Empleado,No,2,7.8,Media,7,5.8,Bajo
+33,Femenino,Cataluña,Empleado,Sí,9,8.2,Baja,5,1.8,Alto
+78,Femenino,Castilla y León,Empleado,Sí,2,7.0,Alta,8,2.3,Bajo
+58,Femenino,Galicia,Empleado,Sí,6,6.1,Media,7,2.9,Medio
+53,Masculino,Andalucía,Desempleado,Sí,2,4.9,Baja,2,0.5,Medio
+50,Femenino,Baleares,Estudiante,Sí,5,6.2,Media,1,2.8,Alto
+21,Femenino,Baleares,Desempleado,Sí,4,6.3,Baja,9,2.7,Medio
+50,Femenino,Cataluña,Empleado,No,7,7.1,Baja,5,3.2,Alto
+31,Femenino,Madrid,Desempleado,Sí,7,6.6,Baja,5,0.6,Alto
+38,Masculino,La Rioja,Desempleado,No,6,7.8,Baja,10,5.9,Medio
+65,Masculino,Galicia,Jubilado,Sí,10,6.3,Baja,4,4.8,Alto
+37,Femenino,Comunidad Valenciana,Empleado,No,5,6.9,Media,2,2.3,Medio
+73,Femenino,Murcia,Empleado,No,1,8.4,Media,5,2.8,Bajo
+25,Femenino,Cataluña,Desempleado,Sí,3,7.4,Media,2,5.7,Alto
+24,Femenino,Madrid,Desempleado,No,9,6.9,Baja,7,3.5,Alto
+20,Femenino,Cataluña,Empleado,No,1,6.3,Baja,9,1.5,Bajo
+34,Femenino,Canarias,Empleado,No,5,6.2,Media,9,3.8,Bajo
+50,Masculino,Comunidad Valenciana,Empleado,No,2,6.0,Baja,6,1.8,Bajo
+65,Femenino,País Vasco,Jubilado,Sí,4,6.4,Baja,1,2.6,Alto
+29,Masculino,Cataluña,Empleado,No,1,7.9,Alta,6,3.9,Bajo
+76,Masculino,Cataluña,Jubilado,No,3,6.7,Media,5,6.1,Medio
+68,Otro,Comunidad Valenciana,Empleado,No,10,5.4,Alta,4,8.0,Alto
+39,Masculino,Castilla y León,Jubilado,Sí,7,9.1,Media,6,6.7,Alto
+72,Masculino,Comunidad Valenciana,Estudiante,No,10,7.4,Baja,6,3.9,Alto
+39,Masculino,Andalucía,Empleado,No,3,5.3,Media,6,8.5,Bajo
+63,Femenino,Aragón,Jubilado,Sí,4,6.5,Baja,2,5.1,Alto
+47,Masculino,Andalucía,Empleado,Sí,2,7.1,Media,7,2.0,Bajo
+55,Masculino,Navarra,Jubilado,Sí,3,9.0,Baja,4,4.2,Medio
+55,Masculino,Andalucía,Desempleado,No,9,5.7,Alta,9,2.7,Medio
+62,Masculino,País Vasco,Empleado,No,3,8.2,Baja,10,1.5,Bajo
+68,Masculino,Andalucía,Desempleado,No,5,8.7,Alta,2,1.7,Medio
+71,Masculino,Extremadura,Jubilado,No,2,6.2,Alta,5,3.7,Bajo
+25,Femenino,Madrid,Empleado,No,4,6.7,Media,4,5.5,Medio
+44,Masculino,Andalucía,Desempleado,Sí,7,5.8,Media,9,6.1,Alto
+44,Masculino,Madrid,Estudiante,No,7,6.8,Media,4,1.5,Alto
+51,Masculino,Andalucía,Estudiante,No,3,7.0,Alta,8,3.4,Bajo
+38,Masculino,Andalucía,Empleado,No,5,7.8,Media,8,5.0,Bajo
+47,Femenino,Navarra,Empleado,No,1,8.3,Media,6,4.3,Bajo
+50,Femenino,Madrid,Empleado,No,10,6.1,Media,6,5.4,Alto
+45,Masculino,Canarias,Desempleado,No,10,4.6,Alta,8,3.1,Alto
+64,Masculino,Galicia,Empleado,No,10,7.0,Media,10,6.5,Medio
+50,Masculino,País Vasco,Jubilado,No,1,7.4,Media,9,4.0,Bajo
+22,Femenino,Andalucía,Empleado,No,5,7.3,Media,5,5.5,Medio
+77,Femenino,Cataluña,Desempleado,Sí,10,6.6,Alta,1,3.2,Alto
+78,Femenino,Canarias,Empleado,Sí,9,7.1,Media,1,4.1,Alto
+65,Masculino,Cantabria,Empleado,Sí,1,8.8,Baja,2,0.8,Bajo
+36,Femenino,Cataluña,Empleado,No,1,7.5,Media,10,2.3,Bajo
+21,Masculino,Cataluña,Empleado,Sí,4,6.6,Alta,10,3.6,Bajo
+52,Masculino,Madrid,Desempleado,Sí,4,6.4,Media,5,4.2,Alto
+66,Masculino,La Rioja,Jubilado,Sí,2,6.8,Alta,4,9.4,Medio
+34,Masculino,Cataluña,Desempleado,Sí,9,9.0,Baja,1,3.2,Alto
+61,Femenino,Madrid,Jubilado,No,9,6.8,Media,4,1.2,Alto
+45,Femenino,Baleares,Jubilado,Sí,2,7.0,Media,4,7.4,Medio
+47,Masculino,Andalucía,Desempleado,No,9,6.4,Alta,10,6.2,Medio
+46,Femenino,Andalucía,Estudiante,No,6,8.3,Baja,4,1.7,Medio
+63,Otro,Galicia,Desempleado,No,8,9.4,Alta,1,4.9,Alto
+70,Femenino,Extremadura,Empleado,Sí,10,7.5,Media,9,5.7,Alto
+23,Femenino,Cataluña,Estudiante,No,4,7.1,Baja,3,4.3,Medio
+52,Femenino,Madrid,Empleado,No,2,7.0,Baja,4,4.7,Bajo
+77,Otro,Madrid,Desempleado,No,2,4.1,Baja,5,2.7,Medio
+58,Femenino,Madrid,Estudiante,No,9,7.9,Media,7,5.0,Alto
+54,Masculino,Galicia,Empleado,Sí,1,7.2,Baja,6,3.0,Bajo
+41,Masculino,Madrid,Empleado,Sí,7,7.5,Baja,5,0.5,Alto
+46,Femenino,Madrid,Jubilado,Sí,3,6.1,Alta,8,4.4,Bajo
+66,Masculino,Madrid,Desempleado,No,3,6.5,Baja,1,0.6,Medio
+63,Femenino,Galicia,Empleado,Sí,2,6.5,Baja,7,6.0,Bajo
+70,Masculino,Comunidad Valenciana,Desempleado,Sí,10,8.2,Media,6,1.7,Alto
+48,Masculino,Aragón,Desempleado,No,6,6.5,Media,5,0.5,Medio
+52,Masculino,Andalucía,Empleado,Sí,10,9.5,Media,7,0.5,Medio
+77,Masculino,Murcia,Jubilado,Sí,2,7.5,Media,3,3.9,Medio
+50,Femenino,Aragón,Desempleado,No,10,5.5,Media,1,4.4,Alto
+69,Femenino,Cataluña,Empleado,Sí,4,6.8,Media,9,1.2,Bajo
+80,Femenino,Madrid,Estudiante,No,10,6.2,Baja,2,1.9,Alto
+78,Femenino,Madrid,Jubilado,No,9,4.4,Baja,10,4.0,Medio
+38,Masculino,Cataluña,Empleado,No,9,8.9,Media,3,5.9,Alto
+49,Femenino,Madrid,Empleado,No,6,7.8,Baja,8,1.6,Bajo
+40,Femenino,Andalucía,Empleado,No,4,7.6,Media,10,4.8,Bajo
+50,Femenino,Cataluña,Desempleado,No,7,7.2,Media,9,0.5,Bajo
+20,Masculino,Murcia,Desempleado,No,1,5.3,Baja,3,4.6,Medio
+35,Femenino,Cataluña,Desempleado,No,4,6.4,Baja,6,5.5,Medio
+42,Femenino,Murcia,Jubilado,No,5,8.0,Baja,7,5.0,Medio
+59,Otro,Comunidad Valenciana,Estudiante,No,8,5.7,Media,1,6.0,Alto
+48,Femenino,Baleares,Empleado,No,2,4.0,Media,7,5.9,Medio
+71,Masculino,Comunidad Valenciana,Empleado,Sí,5,6.7,Media,4,7.7,Alto
+75,Femenino,Andalucía,Empleado,Sí,6,6.8,Baja,5,4.2,Alto
+20,Femenino,País Vasco,Empleado,Sí,5,7.2,Media,8,7.7,Medio
+57,Masculino,Andalucía,Desempleado,No,9,7.9,Alta,4,2.1,Medio
+63,Femenino,Madrid,Jubilado,No,10,7.8,Baja,4,3.6,Alto
+41,Femenino,Asturias,Empleado,No,1,7.3,Media,8,3.8,Bajo
+67,Masculino,Andalucía,Desempleado,Sí,3,8.4,Alta,5,1.9,Bajo
+49,Masculino,Madrid,Estudiante,No,2,5.2,Baja,6,0.5,Bajo
+64,Masculino,Castilla y León,Empleado,Sí,3,7.6,Media,5,5.7,Medio
+39,Masculino,Baleares,Empleado,Sí,10,7.8,Baja,1,2.1,Alto
+40,Masculino,País Vasco,Empleado,No,9,5.5,Media,7,3.2,Alto
+19,Femenino,Cataluña,Empleado,No,9,5.2,Baja,6,7.2,Alto
+80,Masculino,País Vasco,Jubilado,No,10,6.1,Alta,2,5.1,Alto
+44,Masculino,Cataluña,Empleado,No,2,6.2,Media,7,7.5,Bajo
+59,Femenino,Castilla y León,Empleado,Sí,3,7.9,Media,6,4.2,Bajo
+19,Femenino,Navarra,Empleado,No,4,6.3,Media,5,5.1,Medio
+43,Masculino,Castilla y León,Jubilado,No,9,6.0,Media,8,3.5,Medio
+34,Masculino,Aragón,Empleado,Sí,3,6.3,Media,5,2.3,Medio
+57,Masculino,Andalucía,Empleado,No,7,8.3,Alta,2,5.1,Medio
+50,Femenino,Castilla y León,Empleado,No,3,7.0,Alta,6,3.1,Bajo
+26,Masculino,Murcia,Empleado,No,7,6.8,Media,1,5.3,Alto
+60,Femenino,Andalucía,Empleado,No,7,6.9,Alta,5,2.9,Medio
+71,Femenino,Baleares,Desempleado,No,9,8.6,Media,6,3.6,Medio
+65,Masculino,Cataluña,Empleado,Sí,2,6.1,Media,7,3.8,Bajo
+56,Femenino,País Vasco,Empleado,No,6,8.6,Media,2,6.2,Medio
+46,Otro,Murcia,Estudiante,Sí,9,7.3,Baja,1,3.2,Alto
+59,Masculino,País Vasco,Empleado,Sí,2,6.8,Baja,6,6.4,Medio
+72,Femenino,Andalucía,Empleado,Sí,2,10.0,Baja,3,2.2,Medio
+43,Femenino,Galicia,Empleado,No,5,5.7,Media,5,4.5,Medio
+52,Femenino,Comunidad Valenciana,Jubilado,No,10,6.6,Baja,2,2.6,Alto
+67,Femenino,Extremadura,Empleado,Sí,10,5.5,Media,1,6.2,Alto
+42,Femenino,Madrid,Jubilado,No,10,8.1,Alta,1,2.4,Alto
+41,Femenino,Cataluña,Estudiante,No,8,9.0,Baja,4,2.6,Medio
+30,Femenino,Castilla y León,Empleado,Sí,9,9.0,Media,10,1.5,Medio
+77,Femenino,Madrid,Jubilado,Sí,2,8.5,Baja,2,4.2,Medio
+75,Femenino,Galicia,Empleado,No,5,6.8,Baja,1,5.2,Alto
+24,Femenino,Galicia,Empleado,Sí,7,6.6,Media,6,5.0,Medio
+74,Masculino,Baleares,Estudiante,No,6,5.0,Media,4,3.7,Medio
+53,Masculino,Galicia,Estudiante,Sí,6,9.4,Media,10,2.7,Bajo
+62,Masculino,Comunidad Valenciana,Desempleado,No,7,7.6,Baja,7,3.4,Alto
+37,Masculino,Andalucía,Empleado,No,3,6.4,Media,6,3.5,Bajo
+18,Masculino,Andalucía,Empleado,No,3,8.6,Baja,5,4.5,Bajo
+25,Femenino,Andalucía,Estudiante,No,10,5.8,Baja,10,4.4,Medio
+63,Masculino,Andalucía,Empleado,No,9,7.5,Baja,2,7.5,Alto
+33,Femenino,Galicia,Empleado,No,8,6.8,Baja,5,4.1,Medio
+31,Masculino,Castilla y León,Empleado,No,5,7.8,Baja,9,4.7,Bajo
+29,Femenino,Comunidad Valenciana,Empleado,Sí,6,6.9,Baja,9,4.1,Medio
+68,Femenino,Murcia,Jubilado,No,10,5.3,Alta,2,3.3,Alto
+40,Masculino,La Rioja,Empleado,Sí,1,7.1,Baja,7,4.7,Bajo
+32,Femenino,Murcia,Jubilado,No,10,8.3,Baja,10,3.2,Medio
+45,Masculino,País Vasco,Empleado,Sí,1,7.0,Baja,4,3.9,Medio
+51,Femenino,Comunidad Valenciana,Estudiante,No,4,7.9,Media,3,6.3,Medio
+19,Masculino,Madrid,Empleado,Sí,2,5.7,Baja,1,3.0,Medio
+49,Femenino,Andalucía,Empleado,No,7,7.0,Alta,3,4.8,Medio
+40,Masculino,Madrid,Empleado,No,2,6.3,Alta,9,0.5,Bajo
+80,Femenino,Extremadura,Empleado,No,10,7.9,Baja,9,3.6,Medio
+39,Femenino,Murcia,Empleado,No,2,7.0,Media,7,3.0,Bajo
+68,Masculino,Cataluña,Jubilado,Sí,5,7.8,Baja,3,4.2,Alto
+42,Masculino,Madrid,Desempleado,No,4,8.3,Media,3,3.5,Medio
+75,Masculino,Murcia,Empleado,No,8,7.8,Media,4,4.3,Medio
+80,Masculino,Andalucía,Empleado,Sí,4,7.3,Baja,7,3.2,Medio
+79,Femenino,Madrid,Empleado,No,6,5.8,Baja,7,4.8,Medio
+78,Masculino,Aragón,Desempleado,Sí,5,7.0,Media,2,0.6,Alto
+39,Masculino,Madrid,Estudiante,Sí,2,6.4,Media,5,4.2,Medio
+75,Masculino,Andalucía,Jubilado,No,8,6.6,Baja,7,2.1,Medio
+75,Femenino,Comunidad Valenciana,Empleado,Sí,2,6.6,Media,7,6.3,Bajo
+39,Masculino,Aragón,Empleado,No,9,5.8,Media,6,2.1,Alto
+66,Masculino,Galicia,Empleado,No,9,4.7,Alta,10,6.0,Medio
+69,Masculino,Cataluña,Desempleado,Sí,3,6.2,Baja,10,4.0,Bajo
+59,Masculino,Madrid,Desempleado,No,4,7.2,Media,8,0.5,Bajo
+23,Femenino,Madrid,Desempleado,Sí,8,5.4,Media,3,2.2,Alto
+32,Masculino,Comunidad Valenciana,Desempleado,No,9,7.0,Baja,1,5.7,Alto
+71,Masculino,Canarias,Empleado,Sí,3,9.3,Media,3,5.6,Medio
+60,Femenino,Andalucía,Estudiante,Sí,5,8.2,Media,2,1.4,Medio
+77,Femenino,Baleares,Empleado,No,8,9.0,Alta,2,7.1,Alto
+54,Masculino,Andalucía,Desempleado,No,3,7.5,Baja,2,4.0,Medio
+50,Femenino,Madrid,Empleado,No,7,8.4,Media,5,5.8,Bajo
+25,Femenino,Andalucía,Empleado,No,8,6.1,Baja,1,1.6,Alto
+70,Masculino,Madrid,Jubilado,No,10,6.2,Alta,10,3.1,Medio
+77,Femenino,Comunidad Valenciana,Jubilado,No,3,3.7,Baja,4,4.8,Medio
+61,Femenino,Comunidad Valenciana,Estudiante,No,2,8.4,Alta,10,3.4,Bajo
+61,Masculino,Andalucía,Empleado,Sí,10,8.8,Alta,5,0.5,Medio
+22,Masculino,Galicia,Estudiante,No,7,6.3,Baja,2,3.6,Alto
+56,Masculino,Andalucía,Empleado,No,9,6.7,Alta,5,0.5,Medio
+21,Femenino,Canarias,Jubilado,Sí,1,6.1,Alta,10,1.9,Bajo
+23,Otro,Navarra,Empleado,No,3,7.5,Baja,4,1.2,Bajo
+62,Femenino,Cataluña,Jubilado,No,5,8.3,Media,8,6.3,Bajo
+49,Masculino,Comunidad Valenciana,Jubilado,No,3,4.9,Media,1,6.9,Alto
+69,Femenino,Madrid,Estudiante,No,1,7.5,Baja,5,4.7,Bajo
+47,Femenino,Andalucía,Empleado,Sí,7,6.7,Baja,10,3.5,Medio
+64,Masculino,Madrid,Empleado,Sí,7,7.1,Baja,1,4.1,Alto
+52,Masculino,Canarias,Jubilado,Sí,10,7.6,Baja,10,6.3,Medio
+72,Femenino,Galicia,Empleado,No,8,6.8,Media,10,0.5,Bajo
+57,Masculino,Andalucía,Jubilado,Sí,5,6.9,Baja,4,1.8,Medio
+69,Femenino,Aragón,Empleado,No,10,6.7,Alta,8,6.0,Alto
+33,Masculino,Comunidad Valenciana,Empleado,Sí,5,8.2,Media,1,6.4,Alto
+30,Masculino,Aragón,Jubilado,Sí,5,7.5,Baja,2,5.2,Alto
+67,Masculino,Comunidad Valenciana,Desempleado,No,1,7.3,Media,1,1.9,Bajo
+77,Masculino,Comunidad Valenciana,Desempleado,No,10,5.5,Media,7,6.0,Alto
+59,Femenino,Andalucía,Desempleado,Sí,5,6.5,Alta,2,6.7,Alto
+47,Masculino,Andalucía,Empleado,No,6,8.1,Baja,1,5.4,Alto
+36,Femenino,Cantabria,Estudiante,No,1,7.0,Baja,6,0.5,Bajo
+34,Femenino,Cataluña,Empleado,Sí,7,7.8,Alta,6,4.2,Medio
+73,Femenino,Cantabria,Jubilado,Sí,1,9.1,Alta,10,5.2,Bajo
+80,Masculino,Comunidad Valenciana,Jubilado,No,2,8.2,Media,2,3.0,Bajo
+36,Femenino,Andalucía,Empleado,No,2,7.1,Media,1,4.4,Bajo
+45,Femenino,Andalucía,Estudiante,Sí,5,6.4,Baja,10,3.0,Bajo
+75,Masculino,Cataluña,Desempleado,No,10,3.9,Media,3,2.3,Alto
+72,Masculino,Asturias,Empleado,No,7,6.8,Baja,10,7.0,Medio
+43,Femenino,Madrid,Jubilado,No,1,6.6,Baja,5,4.4,Bajo
+54,Femenino,Madrid,Empleado,No,10,7.5,Alta,6,1.8,Medio
+43,Masculino,Cataluña,Empleado,No,1,6.8,Baja,3,1.2,Bajo
+70,Femenino,Andalucía,Empleado,No,1,6.6,Media,9,2.3,Bajo
+79,Femenino,Comunidad Valenciana,Empleado,No,6,4.9,Alta,5,2.3,Medio
+40,Femenino,Andalucía,Desempleado,No,2,5.9,Baja,2,4.3,Alto
+80,Femenino,Murcia,Estudiante,No,1,7.6,Alta,10,5.0,Bajo
+26,Femenino,Madrid,Desempleado,No,6,9.1,Alta,6,5.0,Bajo
+29,Masculino,Madrid,Desempleado,Sí,2,6.9,Media,8,2.5,Bajo
+70,Masculino,Madrid,Empleado,No,6,7.4,Baja,6,5.8,Medio
+18,Masculino,Madrid,Empleado,No,10,8.1,Baja,4,6.5,Alto
+75,Femenino,La Rioja,Empleado,No,8,6.0,Media,6,3.5,Medio
+75,Femenino,Comunidad Valenciana,Empleado,No,2,7.4,Baja,8,1.9,Bajo
+18,Masculino,Andalucía,Desempleado,No,9,6.1,Baja,8,4.2,Alto
+64,Femenino,Galicia,Empleado,Sí,8,8.0,Alta,10,8.3,Medio
+51,Femenino,Andalucía,Empleado,No,10,7.2,Baja,2,1.9,Alto
+49,Femenino,Andalucía,Empleado,No,1,7.4,Media,8,2.9,Bajo
+79,Masculino,Cantabria,Jubilado,Sí,7,6.1,Baja,6,4.1,Alto
+71,Femenino,Canarias,Jubilado,Sí,10,7.8,Media,2,5.1,Alto
+65,Masculino,La Rioja,Desempleado,No,6,9.5,Alta,1,0.5,Medio
+42,Masculino,Madrid,Jubilado,Sí,6,5.8,Baja,6,6.6,Alto
+57,Masculino,Comunidad Valenciana,Estudiante,Sí,6,6.6,Baja,7,6.6,Alto
+62,Masculino,Andalucía,Desempleado,No,6,7.3,Media,10,3.2,Bajo
+70,Masculino,Cataluña,Empleado,No,10,7.9,Media,5,9.4,Alto
+18,Femenino,Murcia,Estudiante,No,7,6.3,Media,10,6.5,Medio
+33,Masculino,Madrid,Estudiante,No,3,3.6,Baja,8,6.3,Medio
+78,Femenino,Murcia,Desempleado,Sí,6,8.6,Baja,9,6.4,Medio
+56,Masculino,Castilla y León,Estudiante,No,3,7.9,Alta,4,6.3,Bajo
+80,Femenino,Andalucía,Empleado,No,7,4.9,Alta,7,4.0,Medio
+22,Femenino,Comunidad Valenciana,Estudiante,No,7,6.3,Media,8,3.8,Medio
+39,Masculino,País Vasco,Jubilado,No,8,8.9,Alta,6,2.1,Medio
+46,Masculino,Cataluña,Empleado,No,2,8.7,Media,2,2.8,Bajo
+72,Masculino,Murcia,Estudiante,No,9,8.1,Media,7,3.4,Medio
+20,Femenino,Comunidad Valenciana,Empleado,No,5,6.8,Baja,9,4.1,Bajo
+29,Femenino,Andalucía,Desempleado,No,9,7.1,Media,5,7.2,Alto
+43,Masculino,Comunidad Valenciana,Estudiante,No,10,6.8,Media,2,0.5,Alto
+33,Femenino,La Rioja,Empleado,No,5,8.4,Baja,4,6.7,Medio
+68,Masculino,Andalucía,Desempleado,No,7,5.9,Media,3,2.0,Alto
+54,Masculino,Murcia,Empleado,No,9,6.0,Media,4,3.8,Alto
+39,Femenino,Cataluña,Desempleado,No,4,8.2,Media,10,2.6,Bajo
+74,Masculino,Canarias,Empleado,No,2,6.9,Media,7,7.7,Bajo
+46,Femenino,Castilla y León,Estudiante,No,9,8.7,Alta,10,3.0,Medio
+31,Masculino,Cataluña,Empleado,No,2,6.2,Baja,8,5.0,Bajo
+45,Otro,Cataluña,Desempleado,No,3,6.9,Media,1,5.1,Medio
+22,Masculino,Canarias,Empleado,No,10,5.9,Media,8,1.7,Medio
+64,Masculino,Madrid,Jubilado,No,2,7.0,Media,5,3.8,Bajo
+66,Femenino,Castilla y León,Jubilado,No,3,5.2,Baja,7,6.4,Bajo
+47,Masculino,Andalucía,Jubilado,No,6,6.4,Baja,1,2.3,Alto
+63,Otro,Aragón,Estudiante,No,3,5.3,Alta,2,5.7,Medio
+79,Femenino,Castilla y León,Estudiante,No,10,7.8,Media,1,3.3,Alto
+69,Femenino,Extremadura,Empleado,No,8,7.9,Alta,5,6.3,Alto
+22,Femenino,Andalucía,Empleado,Sí,6,4.9,Media,6,7.5,Alto
+29,Femenino,Galicia,Empleado,No,7,8.6,Media,10,0.5,Bajo
+33,Femenino,Galicia,Estudiante,No,1,10.0,Alta,9,1.3,Bajo
+43,Femenino,Madrid,Jubilado,No,3,7.1,Media,8,3.1,Bajo
+43,Femenino,Madrid,Empleado,No,3,6.2,Baja,7,6.9,Bajo
+65,Masculino,Andalucía,Jubilado,No,2,10.0,Media,5,5.1,Bajo
+38,Masculino,Castilla y León,Desempleado,No,7,5.4,Alta,3,1.5,Alto
+56,Femenino,Comunidad Valenciana,Desempleado,No,9,7.0,Baja,9,5.4,Alto
+53,Masculino,Andalucía,Empleado,No,4,7.2,Baja,5,2.2,Medio
+50,Femenino,País Vasco,Empleado,No,5,8.6,Baja,3,5.7,Medio
+79,Masculino,Madrid,Desempleado,Sí,3,7.4,Alta,3,5.1,Medio
+47,Masculino,Andalucía,Desempleado,No,9,6.4,Baja,3,2.2,Alto
+54,Femenino,Cantabria,Empleado,No,4,5.9,Media,6,3.9,Bajo
+40,Femenino,Navarra,Desempleado,No,5,6.6,Media,1,6.4,Alto
+75,Masculino,Comunidad Valenciana,Jubilado,No,1,5.8,Media,4,0.5,Bajo
+27,Femenino,Andalucía,Estudiante,No,2,7.1,Media,8,4.6,Bajo
+71,Femenino,Canarias,Jubilado,Sí,9,6.3,Baja,3,1.8,Alto
+22,Masculino,Comunidad Valenciana,Empleado,No,2,5.2,Media,5,4.0,Bajo
+53,Femenino,Cataluña,Empleado,Sí,5,8.5,Media,2,4.9,Alto
+51,Masculino,Comunidad Valenciana,Estudiante,No,8,6.4,Alta,2,8.0,Alto
+69,Masculino,Comunidad Valenciana,Empleado,No,3,5.5,Baja,7,3.9,Bajo
+48,Otro,Comunidad Valenciana,Empleado,No,6,6.8,Alta,10,6.9,Bajo
+27,Masculino,Madrid,Empleado,No,4,7.1,Media,3,2.3,Medio
+75,Femenino,Galicia,Empleado,Sí,7,4.9,Alta,5,3.0,Medio
+36,Femenino,Extremadura,Empleado,Sí,10,7.4,Media,3,5.2,Alto
+75,Masculino,Madrid,Empleado,No,3,5.7,Media,6,4.4,Bajo
+49,Femenino,Castilla y León,Empleado,Sí,6,9.1,Alta,10,3.3,Bajo
+18,Femenino,Baleares,Empleado,No,10,7.6,Alta,3,3.3,Alto
+73,Masculino,Madrid,Desempleado,Sí,9,6.5,Media,8,6.7,Alto
+22,Femenino,Madrid,Desempleado,No,10,6.1,Baja,2,3.4,Alto
+62,Femenino,Galicia,Desempleado,No,1,6.9,Baja,3,2.0,Bajo
+21,Femenino,Galicia,Empleado,Sí,3,7.7,Baja,8,2.3,Bajo
+33,Femenino,Murcia,Empleado,No,2,7.0,Baja,8,5.3,Bajo
+41,Masculino,Madrid,Desempleado,Sí,8,6.7,Baja,1,8.5,Alto
+33,Femenino,La Rioja,Desempleado,Sí,7,7.1,Alta,8,3.0,Medio
+72,Femenino,Andalucía,Empleado,No,2,6.3,Baja,10,8.3,Bajo
+19,Femenino,Andalucía,Empleado,No,6,6.6,Media,2,4.0,Alto
+66,Femenino,Galicia,Jubilado,No,3,4.5,Baja,7,3.4,Bajo
+45,Femenino,Cataluña,Empleado,Sí,8,8.2,Baja,6,2.2,Medio
+49,Femenino,Cataluña,Empleado,No,10,7.4,Baja,2,3.6,Alto
+44,Femenino,Cataluña,Desempleado,Sí,3,6.1,Baja,5,2.5,Medio
+37,Femenino,Cataluña,Empleado,Sí,10,9.3,Media,7,2.3,Alto
+41,Femenino,Andalucía,Empleado,No,9,7.1,Alta,8,0.7,Bajo
+29,Femenino,Cantabria,Empleado,No,1,5.8,Baja,3,7.5,Medio
+67,Femenino,Cataluña,Estudiante,Sí,5,8.0,Media,1,6.1,Alto
+52,Masculino,Castilla y León,Empleado,No,3,7.5,Media,7,4.5,Bajo
+77,Masculino,Canarias,Empleado,Sí,6,7.5,Alta,5,3.7,Bajo
+50,Masculino,Asturias,Empleado,No,10,6.5,Media,5,4.0,Alto
+50,Femenino,Andalucía,Estudiante,Sí,2,7.5,Media,7,2.4,Bajo
+78,Femenino,Baleares,Empleado,Sí,9,6.7,Media,1,1.7,Alto
+68,Femenino,Comunidad Valenciana,Jubilado,No,6,7.7,Alta,8,5.4,Medio
+60,Masculino,Galicia,Empleado,No,7,4.7,Baja,10,3.5,Medio
+54,Femenino,Galicia,Jubilado,No,5,6.5,Media,5,4.7,Bajo
+29,Masculino,Murcia,Jubilado,Sí,9,9.1,Alta,8,0.7,Bajo
+20,Masculino,Cataluña,Empleado,Sí,1,6.1,Media,10,3.4,Bajo
+18,Femenino,Castilla y León,Empleado,No,5,6.3,Media,10,1.7,Bajo
+50,Femenino,Comunidad Valenciana,Empleado,Sí,10,6.5,Media,5,5.0,Alto
+57,Masculino,Canarias,Empleado,No,6,5.5,Baja,7,6.0,Medio
+27,Masculino,La Rioja,Estudiante,Sí,7,4.4,Media,10,6.9,Alto
+60,Masculino,Cataluña,Empleado,No,4,6.7,Media,3,2.7,Medio
+61,Masculino,La Rioja,Empleado,No,1,7.2,Media,2,1.7,Bajo
+46,Femenino,Andalucía,Empleado,Sí,8,6.9,Media,6,3.2,Alto
+30,Masculino,Andalucía,Jubilado,No,10,6.8,Alta,5,2.6,Alto
+29,Femenino,Andalucía,Empleado,No,4,7.1,Baja,9,4.9,Bajo
+48,Femenino,Madrid,Empleado,Sí,3,8.2,Media,10,1.2,Bajo
+63,Masculino,Galicia,Empleado,No,7,6.8,Media,4,0.5,Medio
+19,Masculino,Andalucía,Jubilado,No,2,6.3,Media,3,3.3,Bajo
+78,Masculino,Andalucía,Desempleado,Sí,8,6.7,Baja,9,5.5,Alto
+68,Masculino,Asturias,Empleado,No,6,7.7,Media,8,1.9,Bajo
+67,Masculino,Murcia,Empleado,Sí,7,8.7,Alta,6,5.7,Medio
+52,Femenino,Murcia,Empleado,No,5,6.2,Media,1,4.7,Alto
+40,Masculino,Baleares,Empleado,No,9,7.1,Alta,10,7.1,Medio
+34,Femenino,Castilla y León,Jubilado,No,5,7.4,Alta,1,2.4,Medio
+43,Masculino,Andalucía,Estudiante,No,5,5.8,Baja,6,0.8,Bajo
+25,Femenino,Madrid,Empleado,No,3,7.0,Baja,3,5.2,Medio
+46,Femenino,Castilla y León,Jubilado,No,1,5.2,Alta,3,4.6,Bajo
+43,Femenino,Cataluña,Empleado,Sí,2,4.9,Alta,6,4.4,Bajo
+27,Femenino,País Vasco,Estudiante,No,8,7.4,Baja,3,1.9,Alto
+43,Femenino,Andalucía,Jubilado,Sí,1,6.5,Baja,10,5.6,Bajo
+79,Femenino,Cataluña,Empleado,No,7,7.2,Baja,6,2.7,Medio
+51,Femenino,Comunidad Valenciana,Estudiante,No,5,7.0,Alta,5,4.4,Bajo
+68,Femenino,Galicia,Empleado,Sí,3,5.8,Baja,4,3.1,Medio
+58,Masculino,Comunidad Valenciana,Empleado,Sí,7,6.9,Media,8,4.7,Medio
+24,Masculino,País Vasco,Empleado,No,9,5.5,Alta,2,1.6,Alto
+21,Femenino,Andalucía,Empleado,No,2,8.7,Baja,7,5.0,Bajo
+75,Femenino,Andalucía,Estudiante,No,8,5.4,Media,4,5.3,Alto
+70,Femenino,Aragón,Jubilado,No,9,6.8,Baja,2,4.2,Alto
+67,Femenino,País Vasco,Desempleado,No,3,5.7,Alta,7,7.3,Bajo
+62,Otro,Andalucía,Jubilado,No,2,7.7,Baja,1,4.4,Medio
+28,Masculino,Aragón,Estudiante,Sí,7,6.6,Media,4,5.8,Alto
+46,Masculino,Cataluña,Empleado,Sí,5,6.4,Media,9,4.2,Bajo
+73,Masculino,Madrid,Empleado,No,5,8.0,Baja,4,5.7,Medio
+53,Masculino,Andalucía,Empleado,No,10,7.0,Baja,3,0.9,Alto
+42,Femenino,Castilla y León,Desempleado,Sí,5,7.6,Media,10,4.1,Medio
+38,Masculino,País Vasco,Jubilado,No,4,5.8,Baja,10,1.7,Bajo
+78,Femenino,Cataluña,Empleado,Sí,5,5.3,Alta,2,4.3,Alto
+74,Masculino,Aragón,Estudiante,No,4,7.1,Alta,3,4.8,Bajo
+53,Femenino,Madrid,Desempleado,No,6,6.6,Media,1,5.6,Alto
+27,Femenino,Cataluña,Desempleado,No,4,7.8,Media,10,5.0,Bajo
+54,Masculino,Andalucía,Empleado,No,2,6.9,Media,8,3.3,Bajo
+26,Femenino,Cataluña,Empleado,Sí,9,7.2,Alta,1,2.5,Alto
+41,Masculino,Andalucía,Empleado,No,2,5.1,Media,3,0.5,Medio
+52,Masculino,Comunidad Valenciana,Empleado,No,9,9.3,Baja,3,4.1,Alto
+66,Masculino,Aragón,Empleado,No,10,6.8,Baja,2,6.3,Alto
+52,Masculino,Comunidad Valenciana,Desempleado,No,6,7.8,Media,5,4.2,Alto
+65,Masculino,Cataluña,Empleado,No,9,6.0,Media,10,3.8,Medio
+53,Femenino,Andalucía,Jubilado,No,9,7.4,Media,3,4.3,Alto
+35,Femenino,Cataluña,Empleado,No,3,5.4,Baja,3,3.2,Bajo
+66,Femenino,Madrid,Desempleado,Sí,1,7.5,Media,8,4.4,Bajo
+56,Masculino,Canarias,Empleado,Sí,1,6.6,Baja,4,3.2,Bajo
+49,Femenino,Cataluña,Desempleado,No,3,7.0,Baja,4,2.2,Medio
+41,Masculino,Castilla y León,Jubilado,Sí,5,7.8,Media,3,3.8,Medio
+40,Masculino,Aragón,Empleado,No,3,5.5,Baja,1,3.8,Alto
+79,Femenino,Madrid,Empleado,Sí,9,6.2,Media,8,7.8,Alto
+49,Masculino,Murcia,Estudiante,No,9,7.5,Baja,1,2.4,Alto
+54,Femenino,Comunidad Valenciana,Empleado,No,3,9.5,Media,7,3.7,Bajo
+29,Femenino,Galicia,Empleado,No,3,6.8,Media,5,3.5,Bajo
+66,Masculino,Comunidad Valenciana,Empleado,No,5,7.7,Baja,4,3.1,Bajo
+72,Masculino,Madrid,Empleado,No,2,6.9,Baja,4,5.0,Medio
+30,Masculino,Cataluña,Desempleado,No,6,9.3,Alta,8,8.5,Medio
+40,Femenino,Cataluña,Empleado,No,7,4.9,Media,6,3.4,Medio
+42,Masculino,Cataluña,Jubilado,Sí,9,7.1,Media,1,5.0,Alto
+52,Masculino,Comunidad Valenciana,Estudiante,No,6,5.0,Baja,10,0.5,Bajo
+58,Masculino,Andalucía,Desempleado,No,3,4.0,Media,8,3.2,Bajo
+47,Femenino,Extremadura,Desempleado,No,5,7.4,Media,2,7.1,Alto
+34,Masculino,Castilla y León,Jubilado,Sí,4,7.2,Media,6,3.9,Bajo
+66,Masculino,Madrid,Empleado,Sí,5,6.7,Media,9,5.0,Medio
+79,Femenino,Andalucía,Jubilado,No,8,6.9,Baja,1,2.8,Alto
+37,Femenino,Baleares,Estudiante,No,8,10.0,Baja,6,4.5,Medio
+65,Masculino,Murcia,Estudiante,Sí,6,6.7,Alta,8,7.3,Medio
+42,Masculino,Castilla y León,Desempleado,Sí,1,7.6,Alta,10,1.7,Bajo
+39,Masculino,Cataluña,Empleado,No,8,6.2,Baja,2,8.4,Alto
+30,Femenino,Madrid,Empleado,No,8,7.4,Media,5,0.9,Medio
+76,Masculino,Andalucía,Estudiante,Sí,2,6.7,Baja,6,3.0,Bajo
+36,Femenino,Cataluña,Empleado,No,4,6.5,Baja,5,2.3,Bajo
+66,Femenino,Canarias,Estudiante,Sí,2,9.2,Baja,3,3.5,Bajo
+53,Femenino,Castilla y León,Empleado,No,4,8.4,Baja,4,2.3,Bajo
+29,Masculino,Galicia,Empleado,No,10,7.2,Media,7,2.2,Medio
+78,Femenino,Baleares,Empleado,Sí,7,4.2,Media,4,1.6,Alto
+58,Femenino,Comunidad Valenciana,Empleado,No,9,6.6,Baja,9,5.3,Alto
+36,Femenino,Madrid,Empleado,No,8,10.0,Baja,10,3.5,Bajo
+29,Masculino,Madrid,Empleado,No,9,6.7,Alta,2,3.0,Alto
+26,Otro,Navarra,Jubilado,Sí,8,8.3,Baja,5,4.6,Medio
+24,Masculino,Andalucía,Desempleado,Sí,2,8.7,Media,8,1.0,Bajo
+45,Masculino,Asturias,Empleado,Sí,7,7.3,Baja,5,4.6,Alto
+31,Masculino,Murcia,Desempleado,No,2,6.0,Media,10,3.8,Bajo
+48,Femenino,Andalucía,Jubilado,No,2,4.1,Baja,8,3.9,Bajo
+69,Masculino,Comunidad Valenciana,Estudiante,No,4,7.8,Baja,8,5.0,Bajo
+36,Masculino,Aragón,Empleado,No,1,6.0,Baja,9,7.3,Bajo
+75,Masculino,Comunidad Valenciana,Jubilado,No,5,7.2,Baja,10,4.6,Bajo
+64,Masculino,Extremadura,Estudiante,No,6,5.5,Media,6,3.6,Medio
+33,Femenino,Navarra,Empleado,Sí,9,6.7,Media,4,1.6,Alto
+70,Femenino,Madrid,Empleado,Sí,10,7.0,Baja,3,0.5,Alto
+22,Masculino,Madrid,Desempleado,No,8,7.3,Baja,5,4.3,Alto
+52,Masculino,Asturias,Empleado,Sí,2,5.7,Media,6,1.5,Bajo
+29,Femenino,País Vasco,Estudiante,Sí,1,8.4,Media,3,0.5,Bajo
+42,Masculino,Andalucía,Empleado,No,2,6.3,Alta,2,3.3,Bajo
+69,Masculino,Andalucía,Jubilado,No,7,5.0,Media,7,4.5,Medio
+76,Otro,Comunidad Valenciana,Desempleado,Sí,4,6.9,Media,5,5.5,Alto
+38,Femenino,Asturias,Empleado,No,10,7.0,Media,9,6.1,Alto
+53,Masculino,Aragón,Empleado,No,5,7.2,Alta,3,5.8,Medio
+70,Femenino,País Vasco,Desempleado,No,7,8.6,Alta,8,5.8,Medio
+40,Masculino,Andalucía,Estudiante,Sí,3,6.7,Baja,6,1.1,Medio
+33,Femenino,Cataluña,Estudiante,Sí,10,6.9,Baja,4,3.7,Alto
+74,Masculino,Baleares,Empleado,No,2,5.7,Baja,9,5.2,Bajo
+56,Masculino,Cataluña,Empleado,No,7,8.0,Media,5,4.1,Medio
+62,Masculino,Cataluña,Empleado,No,5,7.2,Media,10,3.7,Bajo
+70,Femenino,Andalucía,Desempleado,No,1,6.5,Media,6,4.1,Bajo
+59,Femenino,País Vasco,Empleado,Sí,1,4.7,Baja,9,4.5,Bajo
+75,Masculino,Navarra,Empleado,Sí,9,8.7,Media,7,3.8,Alto
+56,Masculino,Cataluña,Desempleado,No,5,5.5,Alta,5,2.3,Medio
+31,Femenino,Madrid,Jubilado,Sí,1,6.3,Baja,2,0.6,Medio
+48,Masculino,Galicia,Empleado,Sí,7,7.4,Media,4,3.6,Alto
+75,Masculino,La Rioja,Empleado,No,9,5.6,Media,2,4.1,Alto
+22,Femenino,Andalucía,Desempleado,Sí,1,5.2,Alta,3,4.1,Medio
+52,Masculino,Comunidad Valenciana,Desempleado,Sí,10,4.5,Alta,10,5.9,Alto
+40,Femenino,Madrid,Empleado,No,4,7.9,Media,3,6.3,Medio
+46,Otro,Aragón,Jubilado,Sí,3,6.3,Media,4,3.8,Medio
+60,Masculino,Madrid,Estudiante,Sí,5,10.0,Alta,6,3.8,Bajo
+28,Masculino,Andalucía,Empleado,No,7,5.8,Media,3,5.1,Medio
+35,Masculino,Galicia,Empleado,No,8,5.9,Baja,10,4.9,Medio
+64,Femenino,Canarias,Empleado,Sí,2,6.3,Media,1,3.1,Medio
+29,Femenino,Andalucía,Estudiante,No,7,7.3,Baja,1,5.3,Alto
+26,Femenino,Aragón,Empleado,No,1,6.4,Baja,9,3.7,Bajo
+27,Masculino,Cataluña,Desempleado,No,7,7.7,Alta,9,3.7,Bajo
+75,Femenino,Comunidad Valenciana,Desempleado,No,8,5.8,Media,5,4.9,Alto
+61,Femenino,Madrid,Empleado,No,2,5.3,Media,9,3.4,Bajo
+34,Femenino,Castilla y León,Desempleado,No,9,4.8,Baja,7,4.2,Alto
+78,Femenino,Madrid,Jubilado,Sí,1,4.3,Baja,9,4.6,Bajo
+55,Femenino,Aragón,Empleado,Sí,6,6.4,Baja,7,5.6,Medio
+24,Femenino,Castilla y León,Empleado,No,1,6.6,Baja,9,5.5,Bajo
+63,Femenino,Galicia,Empleado,No,3,6.2,Media,2,4.5,Medio
+30,Masculino,Canarias,Jubilado,Sí,6,8.5,Baja,8,0.5,Medio
+57,Masculino,Canarias,Jubilado,No,3,8.5,Media,7,4.5,Bajo
+59,Femenino,Andalucía,Empleado,No,8,6.6,Baja,6,4.8,Alto
+26,Masculino,Madrid,Estudiante,No,5,4.8,Alta,5,5.2,Medio
+67,Femenino,Asturias,Empleado,Sí,2,6.3,Baja,4,2.1,Medio
+44,Otro,Andalucía,Empleado,No,4,6.3,Baja,7,0.5,Bajo
+75,Femenino,Castilla y León,Empleado,Sí,9,6.2,Baja,3,5.6,Alto
+19,Masculino,Cantabria,Empleado,Sí,4,6.2,Media,8,1.6,Bajo
+22,Masculino,Andalucía,Empleado,No,10,6.2,Media,2,6.4,Alto
+46,Masculino,País Vasco,Desempleado,Sí,10,6.5,Media,1,2.8,Alto
+54,Femenino,Madrid,Empleado,Sí,8,6.2,Media,2,1.9,Alto
+55,Femenino,Comunidad Valenciana,Jubilado,No,5,7.2,Baja,9,4.7,Bajo
+36,Femenino,Andalucía,Empleado,Sí,10,7.4,Media,5,5.2,Alto
+25,Masculino,Andalucía,Empleado,Sí,1,5.9,Media,8,5.1,Bajo
+65,Femenino,País Vasco,Empleado,Sí,7,8.5,Baja,3,5.0,Alto
+62,Femenino,Murcia,Estudiante,No,3,5.8,Baja,7,2.6,Bajo
+18,Masculino,Canarias,Empleado,No,10,5.1,Baja,2,0.9,Alto
+39,Femenino,Comunidad Valenciana,Empleado,No,8,7.5,Baja,8,3.2,Alto
+69,Masculino,Andalucía,Jubilado,No,3,6.0,Media,7,1.7,Bajo
+34,Masculino,País Vasco,Empleado,No,1,7.4,Baja,5,4.9,Bajo
+80,Femenino,Cataluña,Empleado,No,5,4.1,Baja,4,5.7,Alto
+24,Masculino,Extremadura,Estudiante,Sí,2,8.7,Baja,1,4.3,Medio
+42,Femenino,Murcia,Empleado,Sí,4,7.8,Alta,5,4.0,Bajo
+62,Femenino,Castilla y León,Empleado,No,1,5.2,Alta,9,3.4,Bajo
+21,Femenino,Navarra,Empleado,No,9,5.2,Baja,10,6.0,Alto
+53,Masculino,Andalucía,Empleado,No,6,9.0,Baja,4,0.5,Bajo
+23,Femenino,Castilla y León,Empleado,No,8,6.1,Baja,9,1.6,Medio
+77,Femenino,Cataluña,Empleado,No,4,6.0,Media,2,7.7,Alto
+48,Femenino,Extremadura,Empleado,No,9,4.3,Baja,4,1.5,Alto
+36,Masculino,Cataluña,Empleado,No,2,6.6,Media,9,5.1,Bajo
+78,Masculino,Castilla y León,Estudiante,No,9,6.7,Media,4,5.5,Alto
+61,Femenino,Baleares,Empleado,No,5,7.9,Alta,5,0.5,Bajo
+71,Masculino,Andalucía,Empleado,No,6,5.3,Baja,8,0.5,Medio
+56,Femenino,Madrid,Jubilado,No,3,5.2,Alta,1,6.5,Medio
+44,Femenino,Canarias,Desempleado,Sí,4,7.5,Media,1,2.1,Alto
+27,Femenino,Madrid,Empleado,Sí,6,8.2,Baja,9,2.1,Medio
+43,Femenino,Cataluña,Jubilado,No,7,5.1,Baja,9,3.0,Medio
+36,Femenino,Cataluña,Empleado,No,1,8.3,Baja,4,2.1,Bajo
+56,Femenino,Andalucía,Empleado,No,7,7.0,Baja,2,5.1,Alto
+79,Femenino,Aragón,Estudiante,Sí,1,8.3,Baja,9,1.6,Bajo
+20,Femenino,Comunidad Valenciana,Empleado,No,5,6.9,Media,4,0.5,Medio
+62,Masculino,Andalucía,Empleado,No,6,4.0,Media,6,6.3,Medio
+30,Masculino,Madrid,Empleado,No,2,6.8,Alta,1,1.7,Bajo
+67,Femenino,Madrid,Empleado,No,10,8.3,Baja,9,2.5,Medio
+45,Masculino,Cataluña,Empleado,Sí,9,5.9,Alta,5,5.7,Alto
+79,Masculino,Madrid,Jubilado,No,10,6.5,Baja,3,4.1,Alto
+75,Masculino,Cataluña,Empleado,No,6,6.8,Media,4,6.2,Medio
+37,Femenino,Madrid,Jubilado,No,7,3.5,Baja,1,5.7,Alto
+45,Femenino,Castilla y León,Desempleado,No,10,9.0,Baja,9,3.1,Medio
+25,Femenino,Cataluña,Estudiante,No,8,5.9,Alta,8,6.0,Medio
+78,Femenino,Galicia,Estudiante,Sí,10,7.6,Baja,4,4.3,Alto
+80,Femenino,Comunidad Valenciana,Desempleado,No,1,6.9,Media,2,2.8,Bajo
+58,Masculino,Comunidad Valenciana,Empleado,No,8,8.5,Media,9,4.6,Bajo
+56,Femenino,País Vasco,Empleado,No,4,7.5,Media,4,1.4,Bajo
+18,Masculino,Comunidad Valenciana,Empleado,Sí,10,6.7,Media,9,5.7,Alto
+20,Femenino,Baleares,Jubilado,Sí,8,5.9,Media,10,5.4,Medio
+30,Femenino,País Vasco,Estudiante,Sí,6,8.0,Baja,3,4.2,Alto
+45,Masculino,Comunidad Valenciana,Empleado,Sí,9,4.8,Media,7,0.5,Alto
+79,Masculino,Murcia,Empleado,Sí,4,7.8,Alta,7,6.3,Medio
+74,Masculino,Galicia,Empleado,No,2,5.7,Baja,10,4.9,Bajo
+80,Masculino,Cataluña,Desempleado,Sí,2,8.5,Baja,4,4.0,Medio
+77,Masculino,Cataluña,Empleado,Sí,5,7.2,Media,2,3.6,Alto
+66,Femenino,Andalucía,Estudiante,No,10,7.8,Media,9,2.9,Medio
+42,Femenino,Baleares,Jubilado,Sí,9,7.1,Media,4,3.3,Alto
+73,Femenino,Castilla y León,Empleado,Sí,3,4.9,Baja,8,5.5,Medio
+50,Femenino,Asturias,Empleado,Sí,8,6.0,Media,2,3.0,Alto
+55,Femenino,Galicia,Empleado,Sí,4,7.8,Baja,8,3.5,Bajo
+70,Femenino,Madrid,Empleado,No,6,7.2,Media,10,3.7,Bajo
+23,Masculino,Andalucía,Empleado,Sí,10,8.4,Media,5,3.8,Alto
+75,Femenino,País Vasco,Empleado,No,6,7.5,Baja,7,2.8,Medio
+61,Masculino,Comunidad Valenciana,Jubilado,No,3,5.8,Media,7,3.7,Bajo
+62,Otro,La Rioja,Empleado,No,5,6.0,Alta,9,4.7,Bajo
+49,Femenino,Cataluña,Empleado,No,3,7.1,Media,3,2.2,Bajo
+62,Femenino,Comunidad Valenciana,Jubilado,No,1,4.2,Alta,10,3.7,Bajo
+78,Masculino,País Vasco,Estudiante,No,7,9.0,Media,4,7.9,Alto
+64,Femenino,Galicia,Empleado,Sí,4,7.5,Media,10,3.9,Medio
+38,Femenino,Comunidad Valenciana,Desempleado,No,7,8.5,Baja,4,2.1,Medio
+33,Masculino,Canarias,Empleado,No,3,5.1,Baja,10,1.9,Bajo
+71,Masculino,Cataluña,Estudiante,Sí,5,8.5,Baja,5,1.5,Medio
+38,Femenino,Castilla y León,Estudiante,Sí,5,9.7,Media,6,7.3,Medio
+28,Masculino,Galicia,Desempleado,No,2,5.4,Alta,3,6.0,Medio
+77,Femenino,Baleares,Empleado,No,10,7.9,Baja,4,1.4,Alto
+54,Masculino,Aragón,Estudiante,Sí,2,7.0,Media,3,4.4,Medio
+53,Masculino,Cataluña,Empleado,No,4,5.1,Media,2,6.4,Alto
+52,Femenino,Cataluña,Empleado,Sí,4,7.6,Media,10,3.9,Bajo
+36,Masculino,La Rioja,Empleado,No,4,8.0,Baja,9,3.0,Bajo
+37,Femenino,Comunidad Valenciana,Empleado,Sí,6,6.3,Media,1,8.5,Alto
+74,Masculino,Extremadura,Empleado,Sí,2,8.4,Baja,2,0.5,Medio
+35,Masculino,Andalucía,Estudiante,No,6,5.0,Baja,8,9.3,Medio
+64,Femenino,Galicia,Jubilado,No,7,5.2,Alta,7,4.1,Medio
+58,Femenino,Murcia,Empleado,No,10,7.2,Baja,1,6.6,Alto
+66,Femenino,Navarra,Empleado,No,3,7.0,Baja,5,1.6,Medio
+31,Femenino,Cataluña,Empleado,Sí,8,6.1,Alta,10,2.5,Medio
+32,Femenino,Castilla y León,Empleado,No,2,8.0,Baja,6,1.8,Bajo
+48,Masculino,Comunidad Valenciana,Empleado,Sí,8,7.6,Media,5,3.8,Alto
+18,Masculino,Andalucía,Jubilado,No,5,8.0,Baja,4,4.6,Medio
+70,Femenino,País Vasco,Empleado,Sí,2,6.9,Baja,1,6.1,Alto
+71,Femenino,País Vasco,Empleado,No,7,7.7,Baja,7,0.6,Medio
+71,Femenino,Asturias,Empleado,No,2,6.5,Baja,9,4.3,Bajo
+20,Masculino,Comunidad Valenciana,Jubilado,No,6,9.5,Media,6,5.8,Medio
+33,Masculino,Cataluña,Estudiante,No,10,6.0,Media,3,6.2,Alto
+40,Femenino,Andalucía,Jubilado,Sí,3,9.5,Media,10,3.1,Bajo
+74,Femenino,Madrid,Estudiante,No,9,7.0,Alta,4,3.1,Alto
+28,Femenino,Cataluña,Empleado,No,3,5.3,Baja,10,3.8,Bajo
+29,Femenino,Canarias,Empleado,Sí,3,8.6,Media,5,4.4,Bajo
+27,Femenino,Madrid,Desempleado,No,5,7.2,Media,1,6.6,Alto
+49,Masculino,Navarra,Empleado,Sí,7,8.0,Alta,5,1.6,Medio
+33,Masculino,Cantabria,Desempleado,No,8,8.5,Baja,1,2.4,Alto
+25,Masculino,Galicia,Empleado,No,7,7.4,Media,9,1.3,Medio
+55,Masculino,Asturias,Empleado,No,9,6.3,Alta,7,4.9,Medio
+29,Femenino,Canarias,Empleado,Sí,5,8.2,Baja,3,6.2,Alto
+41,Masculino,Comunidad Valenciana,Desempleado,Sí,10,7.0,Alta,9,1.2,Alto
+45,Femenino,Cataluña,Estudiante,No,3,7.8,Baja,2,4.2,Medio
+70,Masculino,Madrid,Empleado,Sí,6,4.4,Media,7,6.1,Alto
+25,Masculino,Comunidad Valenciana,Empleado,Sí,5,7.5,Alta,9,5.6,Bajo
+75,Masculino,Aragón,Empleado,No,4,6.2,Media,6,5.5,Medio
+45,Masculino,Comunidad Valenciana,Empleado,No,2,9.0,Media,10,1.6,Bajo
+53,Femenino,Baleares,Empleado,No,7,7.7,Baja,5,5.5,Medio
+43,Masculino,País Vasco,Empleado,No,5,7.3,Alta,7,3.6,Bajo
+25,Femenino,Andalucía,Empleado,Sí,4,7.6,Media,6,6.1,Bajo
+75,Masculino,La Rioja,Empleado,No,8,5.8,Baja,5,4.9,Alto
+77,Masculino,Comunidad Valenciana,Empleado,Sí,9,8.9,Media,2,2.4,Alto
+67,Masculino,Madrid,Empleado,No,9,9.4,Media,8,4.6,Medio
+45,Femenino,País Vasco,Empleado,No,3,7.5,Baja,7,5.6,Bajo
+45,Femenino,Andalucía,Empleado,No,3,8.9,Baja,6,3.0,Bajo
+54,Masculino,Galicia,Empleado,Sí,5,6.3,Baja,5,4.3,Alto
+58,Masculino,Comunidad Valenciana,Desempleado,No,5,6.0,Media,5,1.3,Medio
+53,Femenino,Madrid,Empleado,No,10,7.0,Media,9,5.1,Medio
+44,Masculino,Navarra,Empleado,Sí,2,7.5,Media,1,3.9,Medio
+71,Masculino,Comunidad Valenciana,Empleado,No,1,6.5,Alta,9,5.8,Bajo
+80,Femenino,Cataluña,Desempleado,No,8,7.6,Alta,6,5.0,Medio
+34,Femenino,Madrid,Jubilado,No,3,7.4,Media,4,3.2,Bajo
+26,Masculino,Extremadura,Estudiante,Sí,1,5.8,Baja,10,2.3,Bajo
+50,Femenino,Andalucía,Estudiante,Sí,1,7.6,Media,7,1.8,Bajo
+70,Femenino,Cataluña,Empleado,Sí,2,8.0,Media,9,3.0,Bajo
+37,Masculino,Andalucía,Desempleado,No,6,7.2,Media,5,5.8,Medio
+30,Femenino,Andalucía,Desempleado,Sí,6,8.4,Media,5,0.5,Medio
+45,Femenino,Murcia,Empleado,Sí,3,5.5,Baja,8,1.9,Bajo
+65,Masculino,Castilla y León,Empleado,No,4,7.6,Alta,7,5.7,Bajo
+46,Masculino,Madrid,Empleado,No,2,5.6,Baja,8,6.7,Bajo
+30,Masculino,País Vasco,Jubilado,Sí,2,5.7,Media,10,2.0,Bajo
+63,Femenino,Madrid,Empleado,Sí,7,6.2,Baja,2,1.9,Alto
+52,Masculino,Navarra,Estudiante,No,1,5.9,Alta,9,6.8,Bajo
+78,Femenino,Cantabria,Empleado,Sí,7,6.3,Baja,3,3.8,Alto
+23,Femenino,Madrid,Empleado,No,1,6.7,Baja,6,2.2,Bajo
+35,Masculino,Aragón,Empleado,No,6,8.0,Baja,6,6.1,Medio
+68,Femenino,Canarias,Empleado,No,3,6.6,Baja,2,5.0,Medio
+22,Masculino,Cataluña,Estudiante,No,8,5.1,Baja,7,5.5,Alto
+64,Femenino,Cataluña,Desempleado,No,6,8.4,Media,9,2.3,Bajo
+42,Femenino,Madrid,Empleado,No,2,6.0,Media,10,4.7,Bajo
+19,Masculino,Canarias,Estudiante,Sí,8,6.9,Baja,1,6.5,Alto
+27,Masculino,Cantabria,Empleado,No,5,7.5,Baja,8,5.3,Bajo
+73,Masculino,Canarias,Jubilado,No,8,7.2,Alta,2,5.8,Alto
+47,Masculino,Aragón,Empleado,Sí,8,8.3,Media,1,6.8,Alto
+67,Masculino,Galicia,Empleado,Sí,6,7.6,Media,8,4.9,Medio
+76,Masculino,Murcia,Empleado,Sí,2,6.0,Media,2,2.9,Medio
+62,Otro,Canarias,Empleado,No,8,9.6,Baja,6,5.8,Alto
+22,Masculino,Madrid,Empleado,Sí,6,7.2,Baja,6,1.8,Medio
+72,Masculino,Comunidad Valenciana,Desempleado,Sí,6,6.8,Baja,5,3.6,Alto
+73,Femenino,Murcia,Jubilado,No,8,8.2,Alta,8,5.2,Bajo
+50,Masculino,Andalucía,Estudiante,No,1,7.3,Alta,3,0.5,Bajo
+71,Femenino,Murcia,Empleado,Sí,2,7.5,Media,10,4.5,Bajo
+18,Femenino,Andalucía,Empleado,No,9,10.0,Baja,4,4.6,Alto
+35,Femenino,Comunidad Valenciana,Empleado,No,8,6.7,Baja,7,1.7,Medio
+49,Masculino,Murcia,Empleado,No,7,6.6,Baja,7,4.7,Medio
+64,Masculino,Cataluña,Desempleado,No,7,7.1,Media,8,4.4,Medio
+66,Masculino,Cataluña,Empleado,Sí,5,8.3,Baja,2,4.1,Alto
+28,Femenino,Madrid,Empleado,Sí,2,5.2,Alta,2,6.4,Medio
+38,Masculino,Baleares,Empleado,No,6,4.6,Baja,4,5.8,Alto
+43,Masculino,Andalucía,Jubilado,Sí,10,6.3,Alta,10,5.3,Alto
+80,Otro,Extremadura,Empleado,Sí,3,5.0,Media,9,2.0,Bajo
+42,Masculino,Andalucía,Empleado,No,4,6.5,Media,10,4.0,Bajo
+39,Masculino,La Rioja,Empleado,Sí,10,7.6,Media,9,6.4,Alto
+76,Masculino,Navarra,Empleado,No,2,5.9,Media,4,3.6,Bajo
+44,Otro,Comunidad Valenciana,Empleado,Sí,2,5.3,Media,9,7.1,Bajo
+66,Masculino,Comunidad Valenciana,Empleado,No,8,7.1,Media,3,5.3,Alto
+30,Femenino,Comunidad Valenciana,Estudiante,No,8,8.0,Media,5,7.4,Alto
+50,Femenino,Galicia,Empleado,No,10,5.0,Alta,10,1.9,Medio
+51,Masculino,Andalucía,Desempleado,Sí,6,8.0,Media,9,3.7,Medio
+58,Femenino,Andalucía,Jubilado,No,5,8.0,Media,6,3.9,Medio
+52,Masculino,Andalucía,Estudiante,No,8,8.1,Alta,3,5.2,Alto
+80,Masculino,Madrid,Empleado,No,4,8.5,Baja,10,2.5,Bajo
+18,Femenino,Cataluña,Empleado,No,4,9.6,Baja,9,0.8,Bajo
+38,Femenino,Galicia,Desempleado,No,5,6.6,Media,6,4.8,Medio
+65,Femenino,La Rioja,Desempleado,No,1,7.1,Media,4,3.3,Bajo
+72,Femenino,Madrid,Empleado,No,1,6.5,Alta,4,3.1,Bajo
+23,Masculino,Comunidad Valenciana,Desempleado,No,2,7.0,Media,8,2.6,Bajo
+45,Masculino,Madrid,Empleado,Sí,8,8.8,Media,7,4.2,Medio
+34,Masculino,Aragón,Empleado,No,7,5.4,Media,1,1.8,Alto
+22,Masculino,Extremadura,Empleado,No,10,6.0,Baja,6,3.6,Alto
+48,Masculino,Baleares,Empleado,No,9,8.7,Media,8,2.3,Medio
+22,Masculino,Cantabria,Empleado,No,5,8.2,Alta,3,2.8,Bajo
+55,Masculino,Andalucía,Desempleado,No,2,6.6,Baja,9,4.7,Bajo
+20,Masculino,Murcia,Empleado,No,7,8.0,Media,10,5.3,Bajo
+70,Femenino,Canarias,Empleado,Sí,8,7.4,Media,2,3.4,Alto
+40,Femenino,Cataluña,Empleado,Sí,7,8.8,Baja,6,5.9,Alto
+54,Masculino,Navarra,Empleado,No,7,7.1,Baja,1,2.1,Alto
+70,Femenino,Andalucía,Empleado,No,5,8.2,Alta,2,1.0,Medio
+54,Femenino,País Vasco,Desempleado,Sí,2,10.0,Baja,5,1.3,Bajo
+27,Masculino,Cataluña,Estudiante,Sí,6,7.7,Baja,1,1.8,Alto
+27,Femenino,Madrid,Estudiante,Sí,4,7.1,Baja,8,1.4,Bajo
+36,Femenino,Castilla y León,Desempleado,No,10,7.9,Media,1,8.0,Alto
+34,Femenino,Comunidad Valenciana,Empleado,Sí,2,6.6,Media,9,0.9,Bajo
+38,Masculino,Madrid,Empleado,No,9,9.9,Media,10,5.9,Bajo
+31,Femenino,Cataluña,Empleado,No,7,7.2,Baja,3,3.9,Alto
+26,Masculino,Murcia,Empleado,No,6,6.7,Alta,2,4.4,Medio
+63,Femenino,Andalucía,Jubilado,No,5,6.0,Baja,1,2.2,Alto
+18,Femenino,Madrid,Empleado,No,3,8.3,Baja,9,4.7,Bajo
+68,Femenino,Extremadura,Empleado,Sí,10,8.0,Media,4,2.2,Alto
+62,Femenino,Aragón,Jubilado,No,10,6.4,Baja,1,5.8,Alto
+30,Femenino,Madrid,Jubilado,No,4,7.7,Alta,1,6.0,Medio
+21,Masculino,Canarias,Estudiante,No,3,5.2,Alta,7,3.7,Bajo
+79,Masculino,Murcia,Empleado,Sí,8,7.2,Baja,2,3.9,Alto
+18,Femenino,Baleares,Empleado,Sí,3,7.5,Alta,7,4.9,Bajo
+66,Masculino,Comunidad Valenciana,Empleado,Sí,7,9.0,Media,7,4.8,Alto
+57,Masculino,Cataluña,Empleado,No,7,6.1,Alta,10,6.0,Bajo
+49,Masculino,Cataluña,Empleado,No,7,5.5,Baja,9,6.0,Medio
+51,Masculino,Cataluña,Empleado,Sí,7,5.9,Media,7,3.9,Medio
+45,Femenino,Galicia,Jubilado,No,2,5.4,Baja,1,3.0,Medio
+48,Femenino,Andalucía,Empleado,Sí,10,8.6,Alta,8,5.6,Medio
+25,Femenino,Galicia,Desempleado,Sí,3,8.9,Baja,8,3.7,Bajo
+56,Femenino,Madrid,Desempleado,No,10,7.4,Media,4,4.2,Alto
+43,Masculino,Cataluña,Empleado,Sí,9,8.5,Baja,8,5.1,Alto
+75,Masculino,Baleares,Desempleado,No,3,7.2,Baja,4,6.0,Medio
+51,Femenino,Madrid,Empleado,No,2,6.9,Media,8,4.5,Bajo
+71,Masculino,Andalucía,Empleado,No,9,6.6,Alta,5,2.8,Medio
+71,Femenino,Murcia,Estudiante,Sí,10,6.6,Media,4,7.6,Alto
+20,Femenino,Andalucía,Empleado,No,9,5.1,Alta,6,7.1,Alto
+76,Masculino,Castilla y León,Jubilado,No,4,7.3,Baja,2,2.0,Medio
+67,Femenino,Canarias,Empleado,No,9,7.0,Media,2,2.2,Alto
+29,Femenino,Madrid,Desempleado,Sí,3,7.9,Media,2,2.4,Medio
+18,Femenino,Murcia,Empleado,Sí,7,7.1,Baja,9,5.7,Alto
+71,Masculino,Comunidad Valenciana,Empleado,Sí,7,6.8,Media,10,7.7,Medio
+61,Masculino,Madrid,Empleado,Sí,8,6.0,Media,3,3.0,Alto
+22,Femenino,Andalucía,Desempleado,No,10,7.1,Media,10,4.3,Medio
+47,Masculino,Cataluña,Estudiante,No,4,7.9,Media,4,2.5,Bajo
+47,Masculino,Asturias,Estudiante,No,3,5.6,Media,10,7.4,Bajo
+76,Femenino,Madrid,Empleado,Sí,3,7.1,Baja,8,5.6,Medio
+74,Masculino,Comunidad Valenciana,Estudiante,No,5,7.3,Baja,4,2.4,Medio
+34,Femenino,Comunidad Valenciana,Desempleado,Sí,1,6.1,Media,10,0.5,Bajo
+65,Femenino,Galicia,Estudiante,No,10,6.3,Baja,10,6.1,Alto
+80,Femenino,Andalucía,Empleado,No,3,7.3,Baja,7,2.9,Bajo
+64,Masculino,Madrid,Desempleado,No,6,5.6,Media,5,5.7,Medio
+40,Femenino,Castilla y León,Estudiante,No,3,7.4,Media,9,4.6,Bajo
+32,Masculino,Cataluña,Empleado,Sí,5,5.9,Baja,4,0.5,Alto
+54,Masculino,Cataluña,Estudiante,No,9,8.3,Media,3,2.4,Alto
+38,Femenino,Andalucía,Desempleado,No,2,9.8,Media,2,3.3,Bajo
+31,Masculino,Madrid,Empleado,No,2,6.0,Baja,1,2.6,Bajo
+19,Masculino,Baleares,Empleado,No,6,7.6,Media,6,4.2,Medio
+28,Femenino,Andalucía,Empleado,No,6,6.1,Media,10,4.8,Bajo
+68,Masculino,Cataluña,Empleado,Sí,8,8.2,Media,2,7.6,Alto
+56,Masculino,Cataluña,Estudiante,No,2,5.5,Media,8,4.9,Bajo
+55,Femenino,Castilla y León,Empleado,Sí,9,7.6,Baja,6,7.0,Alto
+77,Femenino,Galicia,Estudiante,No,2,6.0,Media,5,3.0,Bajo
+51,Femenino,Madrid,Jubilado,No,1,6.8,Baja,2,6.3,Medio
+55,Masculino,Canarias,Empleado,Sí,10,5.8,Alta,7,3.2,Alto
+67,Masculino,Galicia,Jubilado,No,2,8.0,Alta,2,2.2,Bajo
+51,Masculino,Baleares,Jubilado,Sí,7,6.0,Media,5,2.1,Medio
+35,Masculino,Murcia,Estudiante,No,8,7.7,Baja,2,0.5,Alto
+47,Femenino,Cataluña,Estudiante,No,5,6.6,Baja,10,5.7,Bajo
+32,Masculino,Cataluña,Jubilado,No,6,6.9,Baja,2,1.4,Alto
+44,Masculino,Andalucía,Desempleado,No,1,7.2,Media,7,6.8,Bajo
+68,Femenino,Cataluña,Empleado,No,6,6.1,Baja,9,3.7,Bajo
+80,Femenino,La Rioja,Estudiante,No,8,7.3,Media,5,0.9,Medio
+51,Femenino,Madrid,Desempleado,No,3,8.8,Baja,7,1.8,Bajo
+69,Masculino,Cataluña,Desempleado,No,1,6.1,Alta,4,4.4,Bajo
+74,Masculino,Canarias,Empleado,No,4,8.4,Baja,2,0.5,Medio
+55,Masculino,Comunidad Valenciana,Estudiante,Sí,1,8.8,Alta,3,5.2,Bajo
+50,Masculino,Andalucía,Empleado,Sí,8,6.0,Alta,2,1.0,Alto
+41,Femenino,Madrid,Jubilado,Sí,5,5.3,Media,5,2.5,Medio
+32,Femenino,Madrid,Empleado,No,1,7.4,Media,6,4.4,Bajo
+77,Femenino,Canarias,Empleado,No,8,6.3,Media,7,4.9,Medio
+47,Femenino,Andalucía,Empleado,No,9,9.2,Media,3,5.6,Alto
+72,Masculino,Cataluña,Empleado,No,10,7.0,Baja,4,1.4,Alto
+59,Femenino,Comunidad Valenciana,Desempleado,Sí,2,6.0,Baja,8,3.4,Medio
+68,Masculino,Cataluña,Jubilado,Sí,9,5.6,Media,4,6.2,Alto
+34,Femenino,Galicia,Estudiante,No,8,8.3,Media,7,3.4,Alto
+22,Femenino,Comunidad Valenciana,Empleado,No,7,6.3,Media,6,4.6,Medio
+46,Masculino,Madrid,Empleado,No,3,7.1,Baja,7,4.3,Bajo
+21,Masculino,Navarra,Estudiante,No,2,8.1,Baja,1,6.6,Medio
+27,Femenino,Galicia,Jubilado,No,7,6.4,Baja,3,3.1,Alto
+73,Masculino,Andalucía,Empleado,No,5,6.9,Baja,6,1.2,Medio
+34,Masculino,Comunidad Valenciana,Empleado,No,6,7.0,Baja,3,2.1,Medio
+27,Masculino,Canarias,Empleado,No,4,7.8,Baja,7,4.4,Bajo
+34,Femenino,Castilla y León,Jubilado,Sí,2,7.7,Baja,9,0.9,Bajo
+77,Femenino,Andalucía,Desempleado,No,9,6.7,Alta,3,2.9,Alto
+37,Femenino,Cantabria,Empleado,No,3,7.1,Baja,1,4.2,Medio
+41,Masculino,Madrid,Empleado,No,7,6.6,Media,10,2.5,Bajo
+22,Femenino,Andalucía,Jubilado,Sí,8,5.2,Baja,6,4.7,Alto
+51,Masculino,Cataluña,Empleado,No,2,7.3,Alta,1,5.4,Bajo
+23,Femenino,Andalucía,Empleado,No,6,9.3,Media,1,4.9,Alto
+70,Femenino,Murcia,Desempleado,Sí,8,5.9,Baja,8,0.9,Alto
+19,Masculino,Andalucía,Empleado,No,7,6.1,Media,9,4.2,Medio
+30,Masculino,Andalucía,Empleado,Sí,3,6.0,Baja,2,4.3,Medio
+79,Masculino,Aragón,Estudiante,Sí,1,7.9,Media,9,3.2,Bajo
+60,Masculino,Madrid,Jubilado,Sí,6,7.5,Baja,5,4.6,Alto
+60,Masculino,Andalucía,Estudiante,Sí,8,6.8,Alta,8,4.6,Alto
+65,Femenino,Andalucía,Jubilado,No,6,5.9,Media,7,3.8,Medio
+28,Femenino,Andalucía,Desempleado,Sí,5,7.1,Baja,7,2.0,Medio
+68,Masculino,Cataluña,Estudiante,Sí,8,5.1,Media,4,3.9,Alto
+64,Masculino,País Vasco,Empleado,Sí,2,7.2,Baja,2,7.7,Alto
+74,Masculino,Andalucía,Desempleado,Sí,1,8.0,Alta,5,3.2,Bajo
+40,Femenino,Andalucía,Jubilado,Sí,1,5.5,Media,3,6.1,Medio
+72,Masculino,Canarias,Empleado,No,4,5.2,Media,9,4.1,Bajo
+33,Femenino,País Vasco,Empleado,Sí,6,8.9,Baja,6,2.4,Medio
+48,Femenino,Madrid,Empleado,No,9,6.3,Alta,1,3.4,Alto
+28,Femenino,Comunidad Valenciana,Empleado,No,1,8.4,Media,3,4.0,Bajo
+71,Femenino,Cataluña,Empleado,Sí,1,6.8,Baja,4,5.3,Bajo
+33,Masculino,Comunidad Valenciana,Estudiante,No,5,6.8,Baja,9,8.8,Medio
+25,Femenino,Comunidad Valenciana,Jubilado,Sí,10,7.5,Baja,6,4.1,Alto
+21,Masculino,Madrid,Empleado,Sí,5,5.9,Alta,4,1.5,Medio
+57,Masculino,Extremadura,Empleado,Sí,5,7.2,Baja,1,0.7,Alto
+21,Femenino,Andalucía,Empleado,Sí,10,6.5,Media,8,3.2,Alto
+73,Femenino,Canarias,Jubilado,No,6,5.4,Baja,2,1.7,Medio
+42,Femenino,Andalucía,Empleado,No,8,7.4,Baja,8,5.1,Medio
+20,Masculino,Canarias,Empleado,Sí,3,6.7,Media,6,5.1,Medio
+49,Masculino,Galicia,Empleado,No,9,6.8,Alta,8,3.7,Medio
+20,Femenino,Aragón,Empleado,Sí,1,5.5,Media,6,5.3,Bajo
+44,Masculino,Andalucía,Empleado,No,4,8.9,Alta,5,4.1,Bajo
+46,Femenino,Comunidad Valenciana,Jubilado,Sí,9,8.1,Media,5,7.7,Alto
+49,Femenino,Comunidad Valenciana,Desempleado,Sí,8,8.2,Baja,10,5.3,Medio
+67,Femenino,Castilla y León,Desempleado,Sí,10,6.6,Baja,10,5.8,Alto
+78,Masculino,Comunidad Valenciana,Empleado,Sí,9,4.9,Media,8,1.1,Alto
+75,Masculino,Comunidad Valenciana,Estudiante,No,1,9.3,Alta,7,1.7,Bajo
+68,Masculino,Madrid,Desempleado,No,9,6.9,Alta,8,5.0,Medio
+36,Femenino,Cataluña,Empleado,Sí,3,6.1,Baja,8,0.9,Bajo
+38,Masculino,Comunidad Valenciana,Desempleado,No,10,7.5,Baja,7,2.8,Alto
+22,Femenino,Andalucía,Empleado,No,9,8.4,Baja,2,6.4,Alto
+35,Masculino,Cantabria,Estudiante,No,1,7.0,Alta,9,2.7,Bajo
+45,Otro,Castilla y León,Empleado,Sí,1,8.5,Alta,7,1.6,Bajo
+59,Masculino,Navarra,Jubilado,No,9,8.3,Media,6,5.3,Medio
+78,Masculino,Cataluña,Empleado,No,6,5.7,Baja,9,8.1,Alto
+39,Masculino,Baleares,Estudiante,No,4,6.2,Media,1,2.4,Medio
+38,Femenino,Murcia,Desempleado,No,7,8.1,Media,2,6.4,Alto
+23,Femenino,País Vasco,Estudiante,Sí,5,3.7,Baja,1,2.1,Alto
+18,Femenino,Galicia,Empleado,Sí,10,6.8,Media,10,3.8,Medio
+22,Masculino,Cataluña,Empleado,No,7,5.3,Baja,3,3.9,Alto
+58,Masculino,Murcia,Estudiante,No,8,6.4,Baja,5,2.4,Medio
+29,Femenino,Comunidad Valenciana,Empleado,Sí,8,6.6,Alta,1,5.8,Alto
+43,Masculino,Andalucía,Empleado,No,1,6.6,Media,4,0.9,Bajo
+63,Masculino,Cataluña,Desempleado,No,8,6.3,Media,8,4.4,Alto
+51,Otro,Asturias,Empleado,No,6,5.7,Media,6,6.1,Medio
+66,Otro,Aragón,Empleado,No,4,9.8,Baja,1,5.6,Medio
+31,Femenino,La Rioja,Empleado,No,8,9.2,Media,1,5.0,Alto
+43,Femenino,Galicia,Empleado,Sí,3,5.6,Media,3,7.2,Medio
+62,Masculino,Cataluña,Estudiante,No,4,8.9,Media,10,3.6,Bajo
+44,Masculino,Andalucía,Desempleado,Sí,6,6.5,Media,8,1.0,Medio
+26,Femenino,Cataluña,Estudiante,Sí,7,7.2,Baja,8,4.3,Medio
